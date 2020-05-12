@@ -1,0 +1,702 @@
+{
+  "covid_most_at_risk_sw": {
+    "precision": 0.75,
+    "recall": 1.0,
+    "f1-score": 0.8571428571428571,
+    "support": 6,
+    "confused_with": {}
+  },
+  "covid_myth_other_vaccines_sw": {
+    "precision": 0.6666666666666666,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.6666666666666666,
+    "support": 6,
+    "confused_with": {
+      "covid_myth_heat_kills_sw": 1,
+      "covid_treatments_sw": 1
+    }
+  },
+  "covid_myth_UV_sw": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6,
+    "confused_with": {}
+  },
+  "covid_myth_only_old_sw": {
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1-score": 0.5,
+    "support": 6,
+    "confused_with": {
+      "covid_infection_sources_sw": 1,
+      "covid_myth_hot_bath_sw": 1
+    }
+  },
+  "covid_myths_summary_sw": {
+    "precision": 0.6666666666666666,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.6666666666666666,
+    "support": 6,
+    "confused_with": {
+      "covid_anxiety_sw": 1,
+      "covid_myth_cold_kills_sw": 1
+    }
+  },
+  "covid_on_surfaces_sw": {
+    "precision": 1.0,
+    "recall": 0.8333333333333334,
+    "f1-score": 0.9090909090909091,
+    "support": 6,
+    "confused_with": {
+      "covid_myth_cold_kills_sw": 1
+    }
+  },
+  "covid_children_stress_sw": {
+    "precision": 1.0,
+    "recall": 0.8333333333333334,
+    "f1-score": 0.9090909090909091,
+    "support": 6,
+    "confused_with": {
+      "covid_most_at_risk_sw": 1
+    }
+  },
+  "covid_myth_antibiotics_sw": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6,
+    "confused_with": {}
+  },
+  "covid_what_is_corona_covid-19": {
+    "precision": 0.8571428571428571,
+    "recall": 0.8571428571428571,
+    "f1-score": 0.8571428571428571,
+    "support": 7,
+    "confused_with": {
+      "covid_SARS": 1
+    }
+  },
+  "covid_myth_hot_bath": {
+    "precision": 0.875,
+    "recall": 1.0,
+    "f1-score": 0.9333333333333333,
+    "support": 7,
+    "confused_with": {}
+  },
+  "covid_stress_sw": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1-score": 0.6666666666666666,
+    "support": 6,
+    "confused_with": {
+      "covid_incubation": 2,
+      "covid_myths_summary_sw": 1
+    }
+  },
+  "covid_travel_advice_sw": {
+    "precision": 0.6666666666666666,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.6666666666666666,
+    "support": 6,
+    "confused_with": {
+      "wash_hands_how_sw": 1,
+      "covid_incubation_sw": 1
+    }
+  },
+  "covid_incubation_sw": {
+    "precision": 0.8,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.7272727272727272,
+    "support": 6,
+    "confused_with": {
+      "covid_treatments_sw": 1,
+      "covid_incubation": 1
+    }
+  },
+  "covid_treatments_sw": {
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1-score": 0.5,
+    "support": 6,
+    "confused_with": {
+      "covid_myth_cure_sw": 2,
+      "covid_myth_other_vaccines_sw": 1
+    }
+  },
+  "covid_myth_heat_kills": {
+    "precision": 0.4,
+    "recall": 0.2857142857142857,
+    "f1-score": 0.3333333333333333,
+    "support": 7,
+    "confused_with": {
+      "covid_myth_cold_kills": 2,
+      "covid_donts": 1
+    }
+  },
+  "covid_myth_thermal_scanners_sw": {
+    "precision": 0.75,
+    "recall": 1.0,
+    "f1-score": 0.8571428571428571,
+    "support": 6,
+    "confused_with": {}
+  },
+  "covid_myth_hand_dryers_sw": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6,
+    "confused_with": {}
+  },
+  "covid_infection_sources_sw": {
+    "precision": 0.4444444444444444,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.5333333333333333,
+    "support": 6,
+    "confused_with": {
+      "covid_myth_pets_sw": 1,
+      "covid_how_spread_sw": 1
+    }
+  },
+  "covid_myth_other_vaccines": {
+    "precision": 0.625,
+    "recall": 0.7142857142857143,
+    "f1-score": 0.6666666666666666,
+    "support": 7,
+    "confused_with": {
+      "covid_treatments": 1,
+      "covid_myth_alcohol_chlorine_sw": 1
+    }
+  },
+  "covid_myth_cure": {
+    "precision": 0.8,
+    "recall": 0.5714285714285714,
+    "f1-score": 0.6666666666666666,
+    "support": 7,
+    "confused_with": {
+      "covid_treatments": 1,
+      "covid_myth_garlic": 1
+    }
+  },
+  "covid_myth_garlic": {
+    "precision": 0.7777777777777778,
+    "recall": 1.0,
+    "f1-score": 0.8750000000000001,
+    "support": 7,
+    "confused_with": {}
+  },
+  "covid_symptoms_sw": {
+    "precision": 0.8571428571428571,
+    "recall": 0.8571428571428571,
+    "f1-score": 0.8571428571428571,
+    "support": 7,
+    "confused_with": {
+      "covid_myth_thermal_scanners_sw": 1
+    }
+  },
+  "covid_infection_likelihood": {
+    "precision": 0.5714285714285714,
+    "recall": 0.5714285714285714,
+    "f1-score": 0.5714285714285714,
+    "support": 7,
+    "confused_with": {
+      "covid_how_spread": 1,
+      "covid_myth_garlic": 1
+    }
+  },
+  "covid_SARS_sw": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6,
+    "confused_with": {}
+  },
+  "covid_myth_pets_sw": {
+    "precision": 0.75,
+    "recall": 0.5,
+    "f1-score": 0.6,
+    "support": 6,
+    "confused_with": {
+      "covid_infection_sources_sw": 3
+    }
+  },
+  "covid_donate_sw": {
+    "precision": 1.0,
+    "recall": 0.8333333333333334,
+    "f1-score": 0.9090909090909091,
+    "support": 6,
+    "confused_with": {
+      "wash_hands_frequency_sw": 1
+    }
+  },
+  "covid_myth_saline_rinse_sw": {
+    "precision": 1.0,
+    "recall": 0.8333333333333334,
+    "f1-score": 0.9090909090909091,
+    "support": 6,
+    "confused_with": {
+      "covid_myth_hot_bath_sw": 1
+    }
+  },
+  "covid_protection_sw": {
+    "precision": 0.75,
+    "recall": 0.5,
+    "f1-score": 0.6,
+    "support": 6,
+    "confused_with": {
+      "covid_donts_sw": 1,
+      "covid_travel_advice_sw": 1
+    }
+  },
+  "covid_incubation": {
+    "precision": 0.6666666666666666,
+    "recall": 0.8571428571428571,
+    "f1-score": 0.75,
+    "support": 7,
+    "confused_with": {
+      "covid_most_at_risk": 1
+    }
+  },
+  "covid_myth_heat_kills_sw": {
+    "precision": 0.4,
+    "recall": 0.3333333333333333,
+    "f1-score": 0.3636363636363636,
+    "support": 6,
+    "confused_with": {
+      "covid_myth_cold_kills_sw": 3,
+      "covid_what_is_corona_covid-19": 1
+    }
+  },
+  "covid_children_stress": {
+    "precision": 0.7142857142857143,
+    "recall": 0.7142857142857143,
+    "f1-score": 0.7142857142857143,
+    "support": 7,
+    "confused_with": {
+      "covid_myth_heat_kills": 1,
+      "wash_hands_frequency": 1
+    }
+  },
+  "covid_masks_sw": {
+    "precision": 0.8333333333333334,
+    "recall": 0.8333333333333334,
+    "f1-score": 0.8333333333333334,
+    "support": 6,
+    "confused_with": {
+      "covid_protection_sw": 1
+    }
+  },
+  "goodbye_sw": {
+    "precision": 0.8571428571428571,
+    "recall": 0.46153846153846156,
+    "f1-score": 0.6,
+    "support": 13,
+    "confused_with": {
+      "greeting_sw": 2,
+      "covid_myth_only_old_sw": 1
+    }
+  },
+  "covid_myth_hand_dryers": {
+    "precision": 1.0,
+    "recall": 0.8571428571428571,
+    "f1-score": 0.923076923076923,
+    "support": 7,
+    "confused_with": {
+      "covid_how_spread": 1
+    }
+  },
+  "covid_masks": {
+    "precision": 0.7142857142857143,
+    "recall": 0.7142857142857143,
+    "f1-score": 0.7142857142857143,
+    "support": 7,
+    "confused_with": {
+      "covid_protection": 1,
+      "covid_myth_hot_bath": 1
+    }
+  },
+  "greeting_sw": {
+    "precision": 0.5384615384615384,
+    "recall": 0.5833333333333334,
+    "f1-score": 0.5599999999999999,
+    "support": 12,
+    "confused_with": {
+      "greeting": 4,
+      "wash_hands_how_sw": 1
+    }
+  },
+  "covid_infection_sources": {
+    "precision": 0.3,
+    "recall": 0.42857142857142855,
+    "f1-score": 0.3529411764705882,
+    "support": 7,
+    "confused_with": {
+      "covid_myth_pets": 3,
+      "covid_infection_likelihood": 1
+    }
+  },
+  "covid_travel_advice": {
+    "precision": 0.75,
+    "recall": 0.8571428571428571,
+    "f1-score": 0.7999999999999999,
+    "support": 7,
+    "confused_with": {
+      "covid_myth_pets": 1
+    }
+  },
+  "wash_hands_frequency_sw": {
+    "precision": 0.42857142857142855,
+    "recall": 0.375,
+    "f1-score": 0.39999999999999997,
+    "support": 8,
+    "confused_with": {
+      "wash_hands_how_sw": 4,
+      "covid_myth_thermal_scanners_sw": 1
+    }
+  },
+  "covid_myths_summary": {
+    "precision": 1.0,
+    "recall": 0.8571428571428571,
+    "f1-score": 0.923076923076923,
+    "support": 7,
+    "confused_with": {
+      "covid_myth_pets": 1
+    }
+  },
+  "covid_most_at_risk": {
+    "precision": 0.6666666666666666,
+    "recall": 0.5714285714285714,
+    "f1-score": 0.6153846153846153,
+    "support": 7,
+    "confused_with": {
+      "covid_myth_only_old": 1,
+      "covid_travel_advice": 1
+    }
+  },
+  "covid_donate": {
+    "precision": 0.8571428571428571,
+    "recall": 0.8571428571428571,
+    "f1-score": 0.8571428571428571,
+    "support": 7,
+    "confused_with": {
+      "covid_travel_advice": 1
+    }
+  },
+  "covid_myth_antibiotics": {
+    "precision": 0.8571428571428571,
+    "recall": 0.8571428571428571,
+    "f1-score": 0.8571428571428571,
+    "support": 7,
+    "confused_with": {
+      "covid_donts": 1
+    }
+  },
+  "covid_treatments": {
+    "precision": 0.42857142857142855,
+    "recall": 0.42857142857142855,
+    "f1-score": 0.42857142857142855,
+    "support": 7,
+    "confused_with": {
+      "covid_donts": 2,
+      "covid_myth_alcohol_chlorine": 1
+    }
+  },
+  "covid_myth_cold_kills_sw": {
+    "precision": 0.375,
+    "recall": 0.5,
+    "f1-score": 0.42857142857142855,
+    "support": 6,
+    "confused_with": {
+      "covid_myth_heat_kills_sw": 2,
+      "covid_treatments_sw": 1
+    }
+  },
+  "covid_myth_alcohol_chlorine_sw": {
+    "precision": 0.6,
+    "recall": 1.0,
+    "f1-score": 0.7499999999999999,
+    "support": 6,
+    "confused_with": {}
+  },
+  "covid_myth_mosquitos_sw": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6,
+    "confused_with": {}
+  },
+  "covid_symptoms": {
+    "precision": 0.75,
+    "recall": 0.75,
+    "f1-score": 0.75,
+    "support": 8,
+    "confused_with": {
+      "covid_infection_likelihood": 2
+    }
+  },
+  "covid_myth_saline_rinse": {
+    "precision": 1.0,
+    "recall": 0.5714285714285714,
+    "f1-score": 0.7272727272727273,
+    "support": 7,
+    "confused_with": {
+      "wash_hands_how_sw": 1,
+      "wash_hands_frequency": 1
+    }
+  },
+  "covid_myth_only_old": {
+    "precision": 0.4,
+    "recall": 0.2857142857142857,
+    "f1-score": 0.3333333333333333,
+    "support": 7,
+    "confused_with": {
+      "covid_infection_sources": 2,
+      "covid_children_stress": 1
+    }
+  },
+  "covid_myth_thermal_scanners": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 7,
+    "confused_with": {}
+  },
+  "wash_hands_how_sw": {
+    "precision": 0.3,
+    "recall": 0.42857142857142855,
+    "f1-score": 0.3529411764705882,
+    "support": 7,
+    "confused_with": {
+      "wash_hands_frequency_sw": 3,
+      "covid_myth_alcohol_chlorine_sw": 1
+    }
+  },
+  "covid_how_spread_sw": {
+    "precision": 0.7142857142857143,
+    "recall": 0.8333333333333334,
+    "f1-score": 0.7692307692307692,
+    "support": 6,
+    "confused_with": {
+      "covid_infection_sources_sw": 1
+    }
+  },
+  "covid_myth_UV": {
+    "precision": 1.0,
+    "recall": 0.8571428571428571,
+    "f1-score": 0.923076923076923,
+    "support": 7,
+    "confused_with": {
+      "covid_on_surfaces": 1
+    }
+  },
+  "covid_anxiety": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 7,
+    "confused_with": {}
+  },
+  "covid_myth_hot_bath_sw": {
+    "precision": 0.75,
+    "recall": 1.0,
+    "f1-score": 0.8571428571428571,
+    "support": 6,
+    "confused_with": {}
+  },
+  "covid_SARS": {
+    "precision": 0.875,
+    "recall": 1.0,
+    "f1-score": 0.9333333333333333,
+    "support": 7,
+    "confused_with": {}
+  },
+  "covid_donts": {
+    "precision": 0.25,
+    "recall": 0.2857142857142857,
+    "f1-score": 0.26666666666666666,
+    "support": 7,
+    "confused_with": {
+      "covid_myth_antibiotics": 1,
+      "wash_hands_frequency": 1
+    }
+  },
+  "covid_on_surfaces": {
+    "precision": 0.6666666666666666,
+    "recall": 0.5714285714285714,
+    "f1-score": 0.6153846153846153,
+    "support": 7,
+    "confused_with": {
+      "covid_myth_pets": 2,
+      "covid_myth_only_old": 1
+    }
+  },
+  "covid_how_spread": {
+    "precision": 0.5384615384615384,
+    "recall": 1.0,
+    "f1-score": 0.7000000000000001,
+    "support": 7,
+    "confused_with": {}
+  },
+  "wash_hands_frequency": {
+    "precision": 0.1,
+    "recall": 0.1111111111111111,
+    "f1-score": 0.10526315789473685,
+    "support": 9,
+    "confused_with": {
+      "wash_hands_how": 5,
+      "covid_children_stress": 1,
+      "covid_donate": 1
+    }
+  },
+  "covid_myth_garlic_sw": {
+    "precision": 0.75,
+    "recall": 0.5,
+    "f1-score": 0.6,
+    "support": 6,
+    "confused_with": {
+      "covid_most_at_risk_sw": 1,
+      "covid_symptoms": 1
+    }
+  },
+  "covid_myth_cold_kills": {
+    "precision": 0.5714285714285714,
+    "recall": 0.5714285714285714,
+    "f1-score": 0.5714285714285714,
+    "support": 7,
+    "confused_with": {
+      "covid_myth_heat_kills": 2,
+      "covid_masks": 1
+    }
+  },
+  "covid_donts_sw": {
+    "precision": 0.5714285714285714,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.6153846153846153,
+    "support": 6,
+    "confused_with": {
+      "covid_anxiety_sw": 1,
+      "covid_myth_only_old_sw": 1
+    }
+  },
+  "covid_myth_mosquitos": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 7,
+    "confused_with": {}
+  },
+  "covid_myth_alcohol_chlorine": {
+    "precision": 0.75,
+    "recall": 0.8571428571428571,
+    "f1-score": 0.7999999999999999,
+    "support": 7,
+    "confused_with": {
+      "covid_myth_cure": 1
+    }
+  },
+  "covid_infection_likelihood_sw": {
+    "precision": 1.0,
+    "recall": 0.8,
+    "f1-score": 0.888888888888889,
+    "support": 5,
+    "confused_with": {
+      "covid_how_spread_sw": 1
+    }
+  },
+  "covid_protection": {
+    "precision": 0.8,
+    "recall": 0.5714285714285714,
+    "f1-score": 0.6666666666666666,
+    "support": 7,
+    "confused_with": {
+      "covid_how_spread": 2,
+      "covid_treatments": 1
+    }
+  },
+  "wash_hands_how": {
+    "precision": 0.45454545454545453,
+    "recall": 0.625,
+    "f1-score": 0.5263157894736842,
+    "support": 8,
+    "confused_with": {
+      "wash_hands_frequency": 3
+    }
+  },
+  "covid_anxiety_sw": {
+    "precision": 0.75,
+    "recall": 1.0,
+    "f1-score": 0.8571428571428571,
+    "support": 6,
+    "confused_with": {}
+  },
+  "goodbye": {
+    "precision": 0.9090909090909091,
+    "recall": 0.625,
+    "f1-score": 0.7407407407407406,
+    "support": 16,
+    "confused_with": {
+      "covid_myth_alcohol_chlorine_sw": 1,
+      "wash_hands_how": 1
+    }
+  },
+  "covid_myth_pets": {
+    "precision": 0.1111111111111111,
+    "recall": 0.14285714285714285,
+    "f1-score": 0.125,
+    "support": 7,
+    "confused_with": {
+      "covid_infection_sources": 4,
+      "covid_myth_only_old": 1
+    }
+  },
+  "covid_stress": {
+    "precision": 1.0,
+    "recall": 0.42857142857142855,
+    "f1-score": 0.6,
+    "support": 7,
+    "confused_with": {
+      "covid_infection_sources": 1,
+      "covid_how_spread": 1
+    }
+  },
+  "greeting": {
+    "precision": 0.6875,
+    "recall": 0.6875,
+    "f1-score": 0.6875,
+    "support": 16,
+    "confused_with": {
+      "greeting_sw": 4,
+      "goodbye": 1
+    }
+  },
+  "covid_what_is_corona_covid-19_sw": {
+    "precision": 0.8571428571428571,
+    "recall": 1.0,
+    "f1-score": 0.923076923076923,
+    "support": 6,
+    "confused_with": {}
+  },
+  "covid_myth_cure_sw": {
+    "precision": 0.6,
+    "recall": 0.5,
+    "f1-score": 0.5454545454545454,
+    "support": 6,
+    "confused_with": {
+      "covid_what_is_corona_covid-19_sw": 1,
+      "covid_myth_other_vaccines": 1
+    }
+  },
+  "accuracy": 0.6954887218045113,
+  "macro avg": {
+    "precision": 0.7256824863732758,
+    "recall": 0.7076366798406272,
+    "f1-score": 0.7051490902194626,
+    "support": 532
+  },
+  "weighted avg": {
+    "precision": 0.7211561047557289,
+    "recall": 0.6954887218045113,
+    "f1-score": 0.6963940812406209,
+    "support": 532
+  }
+}

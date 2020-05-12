@@ -1,0 +1,1298 @@
+[
+  {
+    "text": "Is there anything that cures the coronavirus?",
+    "intent": "covid_myth_cure",
+    "intent_prediction": {
+      "name": "covid_treatments",
+      "confidence": 0.7169613242149353
+    }
+  },
+  {
+    "text": "Does corona have a cure?",
+    "intent": "covid_myth_cure",
+    "intent_prediction": {
+      "name": "covid_myth_alcohol_chlorine",
+      "confidence": 0.37288740277290344
+    }
+  },
+  {
+    "text": "Can I use ultraviolet light to sterilize a surface?",
+    "intent": "covid_myth_UV",
+    "intent_prediction": {
+      "name": "covid_on_surfaces",
+      "confidence": 0.2932630777359009
+    }
+  },
+  {
+    "text": "Are pets immune from the coronavirus?",
+    "intent": "covid_myth_pets",
+    "intent_prediction": {
+      "name": "covid_myth_only_old",
+      "confidence": 0.5671008825302124
+    }
+  },
+  {
+    "text": "Can my pet get corona?",
+    "intent": "covid_myth_pets",
+    "intent_prediction": {
+      "name": "covid_infection_sources",
+      "confidence": 0.7460948824882507
+    }
+  },
+  {
+    "text": "Is humidity bad for corona?",
+    "intent": "covid_myth_heat_kills",
+    "intent_prediction": {
+      "name": "wash_hands_frequency",
+      "confidence": 0.22182169556617737
+    }
+  },
+  {
+    "text": "Can only old people get COVID-19?",
+    "intent": "covid_myth_only_old",
+    "intent_prediction": {
+      "name": "covid_infection_sources",
+      "confidence": 0.5983145833015442
+    }
+  },
+  {
+    "text": "What should I do with children during COVID-19?",
+    "intent": "covid_children_stress",
+    "intent_prediction": {
+      "name": "covid_myth_heat_kills",
+      "confidence": 0.2328927218914032
+    }
+  },
+  {
+    "text": "Where can I give money to corona research?",
+    "intent": "covid_donate",
+    "intent_prediction": {
+      "name": "covid_travel_advice",
+      "confidence": 0.24356667697429657
+    }
+  },
+  {
+    "text": "Is taking antibiotics bad?",
+    "intent": "covid_donts",
+    "intent_prediction": {
+      "name": "covid_myth_antibiotics",
+      "confidence": 0.9254199266433716
+    }
+  },
+  {
+    "text": "IS there anything that puts me at a higher risk to get corona?",
+    "intent": "covid_donts",
+    "intent_prediction": {
+      "name": "covid_myth_other_vaccines",
+      "confidence": 0.2341921478509903
+    }
+  },
+  {
+    "text": "Is it possible for me to get corona from my dog?",
+    "intent": "covid_infection_sources",
+    "intent_prediction": {
+      "name": "covid_myth_pets",
+      "confidence": 0.8499031662940979
+    }
+  },
+  {
+    "text": "Is the coronavirus more dangerous to some people?",
+    "intent": "covid_most_at_risk",
+    "intent_prediction": {
+      "name": "covid_travel_advice_sw",
+      "confidence": 0.31885671615600586
+    }
+  },
+  {
+    "text": "Who is most likely to die from corona?",
+    "intent": "covid_most_at_risk",
+    "intent_prediction": {
+      "name": "covid_myth_only_old",
+      "confidence": 0.7023542523384094
+    }
+  },
+  {
+    "text": "What protection is there against the coronavirus?",
+    "intent": "covid_protection",
+    "intent_prediction": {
+      "name": "covid_treatments",
+      "confidence": 0.2960045337677002
+    }
+  },
+  {
+    "text": "Am I sick?",
+    "intent": "covid_symptoms",
+    "intent_prediction": {
+      "name": "covid_infection_likelihood",
+      "confidence": 0.6885701417922974
+    }
+  },
+  {
+    "text": "Should I wash my hands?",
+    "intent": "wash_hands_frequency",
+    "intent_prediction": {
+      "name": "wash_hands_how",
+      "confidence": 0.7108342051506042
+    }
+  },
+  {
+    "text": "Is hand washing a good idea?",
+    "intent": "wash_hands_frequency",
+    "intent_prediction": {
+      "name": "covid_myth_only_old_sw",
+      "confidence": 0.21313685178756714
+    }
+  },
+  {
+    "text": "go away",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "greeting",
+      "confidence": 0.2443571537733078
+    }
+  },
+  {
+    "text": "Ni kweli kwamba ayi ilizuia watu kupata coronavirus?",
+    "intent": "covid_myth_garlic_sw",
+    "intent_prediction": {
+      "name": "covid_myth_other_vaccines_sw",
+      "confidence": 0.4839979112148285
+    }
+  },
+  {
+    "text": "Kusafisha pua yangu inaweza zuia coronavirus?",
+    "intent": "covid_myth_saline_rinse_sw",
+    "intent_prediction": {
+      "name": "covid_myth_hot_bath_sw",
+      "confidence": 0.20157377421855927
+    }
+  },
+  {
+    "text": "manyama zinaweza kupata COVID-19?",
+    "intent": "covid_myth_pets_sw",
+    "intent_prediction": {
+      "name": "covid_infection_sources_sw",
+      "confidence": 0.3920001685619354
+    }
+  },
+  {
+    "text": "Ni hali gani ya hewa njo ya mubaya kwa COVID-19?",
+    "intent": "covid_myth_cold_kills_sw",
+    "intent_prediction": {
+      "name": "covid_myth_heat_kills_sw",
+      "confidence": 0.5311285853385925
+    }
+  },
+  {
+    "text": "Wapi naweza kupana pesa kwa kusaidiya mumakazi za uchunguzi ju ya corona?",
+    "intent": "covid_donate_sw",
+    "intent_prediction": {
+      "name": "wash_hands_frequency_sw",
+      "confidence": 0.20917664468288422
+    }
+  },
+  {
+    "text": "Kuko kitu chochote kienyi minapashwa acha kufanya?",
+    "intent": "covid_donts_sw",
+    "intent_prediction": {
+      "name": "covid_anxiety_sw",
+      "confidence": 0.31844544410705566
+    }
+  },
+  {
+    "text": "naweza pata corona kutokeya ku nyama yangu ya kunyumba?",
+    "intent": "covid_infection_sources_sw",
+    "intent_prediction": {
+      "name": "covid_myth_pets_sw",
+      "confidence": 0.4853460192680359
+    }
+  },
+  {
+    "text": "Kuko dawa yoyote yenyi inaweza ponesha ao zuia corona?",
+    "intent": "covid_treatments_sw",
+    "intent_prediction": {
+      "name": "covid_myth_cure_sw",
+      "confidence": 0.278335839509964
+    }
+  },
+  {
+    "text": "Namna gani minapashwa kunawa mikono?",
+    "intent": "wash_hands_how_sw",
+    "intent_prediction": {
+      "name": "wash_hands_frequency_sw",
+      "confidence": 0.45050325989723206
+    }
+  },
+  {
+    "text": "sup",
+    "intent": "greeting_sw",
+    "intent_prediction": {
+      "name": "greeting",
+      "confidence": 0.9650232791900635
+    }
+  },
+  {
+    "text": "heya",
+    "intent": "greeting_sw",
+    "intent_prediction": {
+      "name": "greeting",
+      "confidence": 0.9424090385437012
+    }
+  },
+  {
+    "text": "Can people be cured of COVID-19?",
+    "intent": "covid_myth_cure",
+    "intent_prediction": {
+      "name": "covid_myth_garlic",
+      "confidence": 0.261043518781662
+    }
+  },
+  {
+    "text": "Does rinsing my nose prevent the coronavirus?",
+    "intent": "covid_myth_saline_rinse",
+    "intent_prediction": {
+      "name": "covid_masks",
+      "confidence": 0.4164344370365143
+    }
+  },
+  {
+    "text": "What can I use to cure the coronavirus?",
+    "intent": "covid_myth_alcohol_chlorine",
+    "intent_prediction": {
+      "name": "covid_myth_cure",
+      "confidence": 0.2938401699066162
+    }
+  },
+  {
+    "text": "Could my cat have corona?",
+    "intent": "covid_myth_pets",
+    "intent_prediction": {
+      "name": "covid_infection_sources",
+      "confidence": 0.22630321979522705
+    }
+  },
+  {
+    "text": "What temperature is worst for COVID-19?",
+    "intent": "covid_myth_cold_kills",
+    "intent_prediction": {
+      "name": "covid_myth_heat_kills",
+      "confidence": 0.5200877785682678
+    }
+  },
+  {
+    "text": "Does the cold prevent corona?",
+    "intent": "covid_myth_cold_kills",
+    "intent_prediction": {
+      "name": "covid_masks",
+      "confidence": 0.49125057458877563
+    }
+  },
+  {
+    "text": "Is any age group immune from corona?",
+    "intent": "covid_myth_only_old",
+    "intent_prediction": {
+      "name": "covid_how_spread",
+      "confidence": 0.19289256632328033
+    }
+  },
+  {
+    "text": "How can I keep my mental health up during quarantine?",
+    "intent": "covid_stress",
+    "intent_prediction": {
+      "name": "covid_donts",
+      "confidence": 0.2443075180053711
+    }
+  },
+  {
+    "text": "How long does corona survive outside the human body?",
+    "intent": "covid_on_surfaces",
+    "intent_prediction": {
+      "name": "covid_myth_only_old",
+      "confidence": 0.2757553160190582
+    }
+  },
+  {
+    "text": "How can I get COVID-19?",
+    "intent": "covid_infection_sources",
+    "intent_prediction": {
+      "name": "covid_infection_likelihood",
+      "confidence": 0.2559373676776886
+    }
+  },
+  {
+    "text": "Are there any therapies to stop COVID-19?",
+    "intent": "covid_treatments",
+    "intent_prediction": {
+      "name": "covid_donts",
+      "confidence": 0.24735842645168304
+    }
+  },
+  {
+    "text": "Who is most at risk of getting serious symptoms because of corona?",
+    "intent": "covid_most_at_risk",
+    "intent_prediction": {
+      "name": "covid_travel_advice",
+      "confidence": 0.33836793899536133
+    }
+  },
+  {
+    "text": "What are the chances of me getting coronovirus?",
+    "intent": "covid_infection_likelihood",
+    "intent_prediction": {
+      "name": "covid_myth_garlic",
+      "confidence": 0.17516878247261047
+    }
+  },
+  {
+    "text": "How can I stop the virus from spreading?",
+    "intent": "covid_protection",
+    "intent_prediction": {
+      "name": "covid_how_spread",
+      "confidence": 0.40123870968818665
+    }
+  },
+  {
+    "text": "How do I know if I am infected with coronavirus",
+    "intent": "covid_symptoms",
+    "intent_prediction": {
+      "name": "covid_infection_likelihood",
+      "confidence": 0.6097742915153503
+    }
+  },
+  {
+    "text": "Should I use sanitizer instead of soap?",
+    "intent": "wash_hands_how",
+    "intent_prediction": {
+      "name": "wash_hands_frequency",
+      "confidence": 0.36824658513069153
+    }
+  },
+  {
+    "text": "Should I use soap to wash my hands?",
+    "intent": "wash_hands_how",
+    "intent_prediction": {
+      "name": "wash_hands_frequency",
+      "confidence": 0.8101568222045898
+    }
+  },
+  {
+    "text": "What should I do every day?",
+    "intent": "wash_hands_frequency",
+    "intent_prediction": {
+      "name": "covid_children_stress",
+      "confidence": 0.42107093334198
+    }
+  },
+  {
+    "text": "see ya",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "covid_myth_alcohol_chlorine_sw",
+      "confidence": 0.22503651678562164
+    }
+  },
+  {
+    "text": "cancel",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "goodbye_sw",
+      "confidence": 0.14971637725830078
+    }
+  },
+  {
+    "text": "sup",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "greeting_sw",
+      "confidence": 0.9186158776283264
+    }
+  },
+  {
+    "text": "heya",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "greeting_sw",
+      "confidence": 0.9085524678230286
+    }
+  },
+  {
+    "text": "good afternoon",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.41619428992271423
+    }
+  },
+  {
+    "text": "Kuko mtu mwenye alishapata dawa ya coronavirus?",
+    "intent": "covid_myth_cure_sw",
+    "intent_prediction": {
+      "name": "covid_myth_other_vaccines",
+      "confidence": 0.28310951590538025
+    }
+  },
+  {
+    "text": "Faida ya ayi ni nini?",
+    "intent": "covid_myth_garlic_sw",
+    "intent_prediction": {
+      "name": "covid_symptoms",
+      "confidence": 0.20407737791538239
+    }
+  },
+  {
+    "text": "Chanjo zingine zinaweza kuzuia coronavirus?",
+    "intent": "covid_myth_other_vaccines_sw",
+    "intent_prediction": {
+      "name": "covid_myth_heat_kills_sw",
+      "confidence": 0.5372958183288574
+    }
+  },
+  {
+    "text": "Pusi yangu inaweza kuwa na corona?",
+    "intent": "covid_myth_pets_sw",
+    "intent_prediction": {
+      "name": "covid_infection_sources_sw",
+      "confidence": 0.23305311799049377
+    }
+  },
+  {
+    "text": "Kuna hali ya hewa yenyi inauwa COVID-19?",
+    "intent": "covid_myth_heat_kills_sw",
+    "intent_prediction": {
+      "name": "covid_myth_cold_kills_sw",
+      "confidence": 0.2887815237045288
+    }
+  },
+  {
+    "text": "Corona inaweza kuishi katika hali ya hewa yoyote?",
+    "intent": "covid_myth_cold_kills_sw",
+    "intent_prediction": {
+      "name": "covid_myth_heat_kills_sw",
+      "confidence": 0.7079518437385559
+    }
+  },
+  {
+    "text": "Minaweza pata COVID-19 aye?",
+    "intent": "covid_infection_sources_sw",
+    "intent_prediction": {
+      "name": "covid_how_spread_sw",
+      "confidence": 0.5792512893676758
+    }
+  },
+  {
+    "text": "\"kipindi incubation\" ni nini?",
+    "intent": "covid_incubation_sw",
+    "intent_prediction": {
+      "name": "covid_incubation",
+      "confidence": 0.34439340233802795
+    }
+  },
+  {
+    "text": "Ni wakati gani watu wanaanza kuonesha alama za corona?",
+    "intent": "covid_incubation_sw",
+    "intent_prediction": {
+      "name": "covid_treatments_sw",
+      "confidence": 0.22271768748760223
+    }
+  },
+  {
+    "text": "Dawa gani minaweza kunywa ya kuzuia COVID-19?",
+    "intent": "covid_treatments_sw",
+    "intent_prediction": {
+      "name": "covid_myth_cure_sw",
+      "confidence": 0.4466593861579895
+    }
+  },
+  {
+    "text": "Namna gani naweza kukinga familia yangu ku ugonjwa?",
+    "intent": "covid_protection_sw",
+    "intent_prediction": {
+      "name": "covid_travel_advice_sw",
+      "confidence": 0.26390132308006287
+    }
+  },
+  {
+    "text": "Napashwa tumikisha Dawa ya kimaji ya kuuwa uchafu (alcol) pali ya sabuni?",
+    "intent": "wash_hands_how_sw",
+    "intent_prediction": {
+      "name": "covid_myth_alcohol_chlorine_sw",
+      "confidence": 0.56600421667099
+    }
+  },
+  {
+    "text": "Mara ngapi ku siku njo minapashwa nawa mikono?",
+    "intent": "wash_hands_frequency_sw",
+    "intent_prediction": {
+      "name": "wash_hands_how_sw",
+      "confidence": 0.6054592132568359
+    }
+  },
+  {
+    "text": "Ni mara ngapi njo minapashwa safisha mikono yangu?",
+    "intent": "wash_hands_frequency_sw",
+    "intent_prediction": {
+      "name": "wash_hands_how_sw",
+      "confidence": 0.6629286408424377
+    }
+  },
+  {
+    "text": "usiku mwema",
+    "intent": "goodbye_sw",
+    "intent_prediction": {
+      "name": "covid_myth_alcohol_chlorine_sw",
+      "confidence": 0.31122076511383057
+    }
+  },
+  {
+    "text": "kuondoa",
+    "intent": "goodbye_sw",
+    "intent_prediction": {
+      "name": "greeting_sw",
+      "confidence": 0.18739493191242218
+    }
+  },
+  {
+    "text": "unaweza fanya nini",
+    "intent": "greeting_sw",
+    "intent_prediction": {
+      "name": "wash_hands_how_sw",
+      "confidence": 0.36046797037124634
+    }
+  },
+  {
+    "text": "Is there evidence that saline kills COVID-19?",
+    "intent": "covid_myth_saline_rinse",
+    "intent_prediction": {
+      "name": "wash_hands_frequency",
+      "confidence": 0.22069311141967773
+    }
+  },
+  {
+    "text": "Can animals have COVID-19?",
+    "intent": "covid_myth_pets",
+    "intent_prediction": {
+      "name": "covid_infection_sources",
+      "confidence": 0.8397553563117981
+    }
+  },
+  {
+    "text": "Can corona not be transmitted when it's hot?",
+    "intent": "covid_myth_heat_kills",
+    "intent_prediction": {
+      "name": "covid_donts",
+      "confidence": 0.45471513271331787
+    }
+  },
+  {
+    "text": "Does corona survive in any temperature?",
+    "intent": "covid_myth_cold_kills",
+    "intent_prediction": {
+      "name": "covid_myth_heat_kills",
+      "confidence": 0.869320273399353
+    }
+  },
+  {
+    "text": "Is there something I can do against stress?",
+    "intent": "covid_stress",
+    "intent_prediction": {
+      "name": "wash_hands_frequency",
+      "confidence": 0.321970134973526
+    }
+  },
+  {
+    "text": "How can I deal with the stress from corona?",
+    "intent": "covid_stress",
+    "intent_prediction": {
+      "name": "covid_infection_sources",
+      "confidence": 0.17689627408981323
+    }
+  },
+  {
+    "text": "What are the facts about the coronavirus?",
+    "intent": "covid_myths_summary",
+    "intent_prediction": {
+      "name": "covid_myth_pets",
+      "confidence": 0.2552817165851593
+    }
+  },
+  {
+    "text": "Is there anything i should stop doing?",
+    "intent": "covid_donts",
+    "intent_prediction": {
+      "name": "wash_hands_frequency",
+      "confidence": 0.32371681928634644
+    }
+  },
+  {
+    "text": "Can I get the coronavirus from an infected surface?",
+    "intent": "covid_on_surfaces",
+    "intent_prediction": {
+      "name": "covid_myth_pets",
+      "confidence": 0.37825924158096313
+    }
+  },
+  {
+    "text": "When do people start showing symptoms of corona?",
+    "intent": "covid_incubation",
+    "intent_prediction": {
+      "name": "covid_most_at_risk",
+      "confidence": 0.26031601428985596
+    }
+  },
+  {
+    "text": "What treatments can I do to prevent or cure the coronavirus?",
+    "intent": "covid_treatments",
+    "intent_prediction": {
+      "name": "covid_myth_alcohol_chlorine",
+      "confidence": 0.19710060954093933
+    }
+  },
+  {
+    "text": "wash hands",
+    "intent": "wash_hands_frequency",
+    "intent_prediction": {
+      "name": "wash_hands_how",
+      "confidence": 0.8641975522041321
+    }
+  },
+  {
+    "text": "How many times a day should I wash my hands?",
+    "intent": "wash_hands_frequency",
+    "intent_prediction": {
+      "name": "wash_hands_how",
+      "confidence": 0.761734127998352
+    }
+  },
+  {
+    "text": "good morning",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "greeting_sw",
+      "confidence": 0.35292506217956543
+    }
+  },
+  {
+    "text": "Ni lazima nianze kula ayi zaidi?",
+    "intent": "covid_myth_garlic_sw",
+    "intent_prediction": {
+      "name": "covid_most_at_risk_sw",
+      "confidence": 0.5192718505859375
+    }
+  },
+  {
+    "text": "Chanjo iko na uwezo ya kuuwa corona?",
+    "intent": "covid_myth_other_vaccines_sw",
+    "intent_prediction": {
+      "name": "covid_treatments_sw",
+      "confidence": 0.3360802233219147
+    }
+  },
+  {
+    "text": "Hali ya joto ni ya mubaya kwa coronavirus?",
+    "intent": "covid_myth_heat_kills_sw",
+    "intent_prediction": {
+      "name": "covid_myth_cold_kills_sw",
+      "confidence": 0.5127143263816833
+    }
+  },
+  {
+    "text": "Wazee njo tu wanaeza pata COVID-19?",
+    "intent": "covid_myth_only_old_sw",
+    "intent_prediction": {
+      "name": "covid_infection_sources_sw",
+      "confidence": 0.4129771888256073
+    }
+  },
+  {
+    "text": "Naweza kuwasaidia batoto bangu mu boga ?",
+    "intent": "covid_children_stress_sw",
+    "intent_prediction": {
+      "name": "covid_most_at_risk_sw",
+      "confidence": 0.3225514590740204
+    }
+  },
+  {
+    "text": "Nifanye nini wakati minasikia boga juya COVID-19?",
+    "intent": "covid_stress_sw",
+    "intent_prediction": {
+      "name": "covid_incubation",
+      "confidence": 0.20655688643455505
+    }
+  },
+  {
+    "text": "Ma hadisi ni za aye ju ya corona?",
+    "intent": "covid_myths_summary_sw",
+    "intent_prediction": {
+      "name": "covid_anxiety_sw",
+      "confidence": 0.2526581585407257
+    }
+  },
+  {
+    "text": "Namna gani naweza kuepuka kupata ugonjwa?",
+    "intent": "covid_protection_sw",
+    "intent_prediction": {
+      "name": "covid_donts_sw",
+      "confidence": 0.5541150569915771
+    }
+  },
+  {
+    "text": "Naweza kupata ugonjwa aye?",
+    "intent": "covid_how_spread_sw",
+    "intent_prediction": {
+      "name": "covid_infection_sources_sw",
+      "confidence": 0.165932297706604
+    }
+  },
+  {
+    "text": "Njia gani njo ya muzuri ya kunawa mikono?",
+    "intent": "wash_hands_how_sw",
+    "intent_prediction": {
+      "name": "wash_hands_frequency_sw",
+      "confidence": 0.6131103038787842
+    }
+  },
+  {
+    "text": "Naweza kutumikisha sabuni kwa kufanya nini?",
+    "intent": "wash_hands_frequency_sw",
+    "intent_prediction": {
+      "name": "covid_myth_thermal_scanners_sw",
+      "confidence": 0.28581148386001587
+    }
+  },
+  {
+    "text": "Yote ile",
+    "intent": "goodbye_sw",
+    "intent_prediction": {
+      "name": "covid_symptoms_sw",
+      "confidence": 0.21840403974056244
+    }
+  },
+  {
+    "text": "kwaheri",
+    "intent": "goodbye_sw",
+    "intent_prediction": {
+      "name": "greeting_sw",
+      "confidence": 0.4540933072566986
+    }
+  },
+  {
+    "text": "Should I start taking more antibiotics?",
+    "intent": "covid_myth_antibiotics",
+    "intent_prediction": {
+      "name": "covid_donts",
+      "confidence": 0.6543670296669006
+    }
+  },
+  {
+    "text": "What vaccines can I get against corona?",
+    "intent": "covid_myth_other_vaccines",
+    "intent_prediction": {
+      "name": "covid_treatments",
+      "confidence": 0.5431519150733948
+    }
+  },
+  {
+    "text": "Is it possible for me to get the coronavirus from my dog?",
+    "intent": "covid_myth_pets",
+    "intent_prediction": {
+      "name": "covid_infection_sources",
+      "confidence": 0.82205730676651
+    }
+  },
+  {
+    "text": "Is there a temperature that kills COVID-19?",
+    "intent": "covid_myth_heat_kills",
+    "intent_prediction": {
+      "name": "covid_myth_cold_kills",
+      "confidence": 0.8232779502868652
+    }
+  },
+  {
+    "text": "Who is most likely to get corona?",
+    "intent": "covid_myth_only_old",
+    "intent_prediction": {
+      "name": "covid_most_at_risk",
+      "confidence": 0.6138895750045776
+    }
+  },
+  {
+    "text": "Who can get corona?",
+    "intent": "covid_myth_only_old",
+    "intent_prediction": {
+      "name": "covid_infection_sources",
+      "confidence": 0.3813509941101074
+    }
+  },
+  {
+    "text": "My kids are stressed, what should I do?",
+    "intent": "covid_children_stress",
+    "intent_prediction": {
+      "name": "wash_hands_frequency",
+      "confidence": 0.3227020800113678
+    }
+  },
+  {
+    "text": "What should I do when I feel stressed because of COVID-19?",
+    "intent": "covid_stress",
+    "intent_prediction": {
+      "name": "covid_how_spread",
+      "confidence": 0.15701161324977875
+    }
+  },
+  {
+    "text": "Should I not be travelling because of corona?",
+    "intent": "covid_travel_advice",
+    "intent_prediction": {
+      "name": "covid_myth_pets",
+      "confidence": 0.21813948452472687
+    }
+  },
+  {
+    "text": "What can make COVID-19 worse for me?",
+    "intent": "covid_donts",
+    "intent_prediction": {
+      "name": "covid_myth_cold_kills",
+      "confidence": 0.21850083768367767
+    }
+  },
+  {
+    "text": "Where can corona survive?",
+    "intent": "covid_on_surfaces",
+    "intent_prediction": {
+      "name": "covid_myth_pets",
+      "confidence": 0.3093327283859253
+    }
+  },
+  {
+    "text": "Do masks prevent COVID-19?",
+    "intent": "covid_masks",
+    "intent_prediction": {
+      "name": "covid_myth_hot_bath",
+      "confidence": 0.42612460255622864
+    }
+  },
+  {
+    "text": "Does a mask protect me from the coronavirus?",
+    "intent": "covid_masks",
+    "intent_prediction": {
+      "name": "covid_protection",
+      "confidence": 0.25537484884262085
+    }
+  },
+  {
+    "text": "Can anything stop the coronavirus?",
+    "intent": "covid_treatments",
+    "intent_prediction": {
+      "name": "covid_donts",
+      "confidence": 0.35334011912345886
+    }
+  },
+  {
+    "text": "How likely am I to get infected with COVID-19?",
+    "intent": "covid_infection_likelihood",
+    "intent_prediction": {
+      "name": "covid_symptoms",
+      "confidence": 0.4524889886379242
+    }
+  },
+  {
+    "text": "How can I avoid getting the disease?",
+    "intent": "covid_protection",
+    "intent_prediction": {
+      "name": "covid_how_spread",
+      "confidence": 0.31012609601020813
+    }
+  },
+  {
+    "text": "What is the difference between COVID-19 and Coronavirus?",
+    "intent": "covid_what_is_corona_covid-19",
+    "intent_prediction": {
+      "name": "covid_SARS",
+      "confidence": 0.5599365830421448
+    }
+  },
+  {
+    "text": "What can I use soap for?",
+    "intent": "wash_hands_frequency",
+    "intent_prediction": {
+      "name": "wash_hands_how",
+      "confidence": 0.49899423122406006
+    }
+  },
+  {
+    "text": "stop",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "covid_donts",
+      "confidence": 0.5970876216888428
+    }
+  },
+  {
+    "text": "goodnight",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "wash_hands_how",
+      "confidence": 0.4657592177391052
+    }
+  },
+  {
+    "text": "no",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "covid_myth_pets",
+      "confidence": 0.2541840076446533
+    }
+  },
+  {
+    "text": "yo",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "greeting_sw",
+      "confidence": 0.9502702951431274
+    }
+  },
+  {
+    "text": "Kuna kitu chochote kienye kinaweza ponesha coronavirus?",
+    "intent": "covid_myth_cure_sw",
+    "intent_prediction": {
+      "name": "covid_donts_sw",
+      "confidence": 0.6570196151733398
+    }
+  },
+  {
+    "text": "Dawa ya COVID-19 ni nini?",
+    "intent": "covid_myth_cure_sw",
+    "intent_prediction": {
+      "name": "covid_what_is_corona_covid-19_sw",
+      "confidence": 0.4836729168891907
+    }
+  },
+  {
+    "text": "Inawezekana niambukizwe coronavirus kutokea ku imbwa yangu?",
+    "intent": "covid_myth_pets_sw",
+    "intent_prediction": {
+      "name": "covid_infection_sources_sw",
+      "confidence": 0.703966498374939
+    }
+  },
+  {
+    "text": "Kifukutu inaweza uwa coronavirus?",
+    "intent": "covid_myth_heat_kills_sw",
+    "intent_prediction": {
+      "name": "covid_what_is_corona_covid-19",
+      "confidence": 0.16638731956481934
+    }
+  },
+  {
+    "text": "Baridi inaweza kuzuia corona?",
+    "intent": "covid_myth_cold_kills_sw",
+    "intent_prediction": {
+      "name": "covid_treatments_sw",
+      "confidence": 0.30518752336502075
+    }
+  },
+  {
+    "text": "Batoto biko na ukingo ku corona?",
+    "intent": "covid_myth_only_old_sw",
+    "intent_prediction": {
+      "name": "covid_myth_hot_bath_sw",
+      "confidence": 0.17911101877689362
+    }
+  },
+  {
+    "text": "Namna gani naweza jisaidia ku boga ya corona?",
+    "intent": "covid_stress_sw",
+    "intent_prediction": {
+      "name": "covid_incubation",
+      "confidence": 0.1890694946050644
+    }
+  },
+  {
+    "text": "Misipashwe kusafiri kwa sababu ya corona?",
+    "intent": "covid_travel_advice_sw",
+    "intent_prediction": {
+      "name": "wash_hands_how_sw",
+      "confidence": 0.24231889843940735
+    }
+  },
+  {
+    "text": "Kuko habari yoyote ya bono ju ya COVID-19?",
+    "intent": "covid_myths_summary_sw",
+    "intent_prediction": {
+      "name": "covid_myth_cold_kills_sw",
+      "confidence": 0.3580799102783203
+    }
+  },
+  {
+    "text": "Kuko kitu yoyote yenye inanitiya katika hatari kubwa ya kupata corona?",
+    "intent": "covid_donts_sw",
+    "intent_prediction": {
+      "name": "covid_myth_only_old_sw",
+      "confidence": 0.756310224533081
+    }
+  },
+  {
+    "text": "Minaweza pata coronavirus kutoka ku fasi za inje zenye zimeambukizwa?",
+    "intent": "covid_on_surfaces_sw",
+    "intent_prediction": {
+      "name": "covid_myth_cold_kills_sw",
+      "confidence": 0.3724997341632843
+    }
+  },
+  {
+    "text": "Ndapata ugonjwa?",
+    "intent": "covid_infection_likelihood_sw",
+    "intent_prediction": {
+      "name": "covid_how_spread_sw",
+      "confidence": 0.3103282153606415
+    }
+  },
+  {
+    "text": "Wakati mina nawa mikono, saa ngapi minapashwa fanya?",
+    "intent": "wash_hands_how_sw",
+    "intent_prediction": {
+      "name": "wash_hands_frequency_sw",
+      "confidence": 0.5016056299209595
+    }
+  },
+  {
+    "text": "Minapashwa nawa mikono?",
+    "intent": "wash_hands_frequency_sw",
+    "intent_prediction": {
+      "name": "wash_hands_how_sw",
+      "confidence": 0.5948513746261597
+    }
+  },
+  {
+    "text": "tutaonana",
+    "intent": "goodbye_sw",
+    "intent_prediction": {
+      "name": "covid_myth_only_old_sw",
+      "confidence": 0.15210725367069244
+    }
+  },
+  {
+    "text": "Acha",
+    "intent": "goodbye_sw",
+    "intent_prediction": {
+      "name": "covid_donts_sw",
+      "confidence": 0.32418587803840637
+    }
+  },
+  {
+    "text": "Can I use saline to stop the coronavirus?",
+    "intent": "covid_myth_saline_rinse",
+    "intent_prediction": {
+      "name": "wash_hands_how_sw",
+      "confidence": 0.3207394778728485
+    }
+  },
+  {
+    "text": "Do other vaccines prevent the coronavirus?",
+    "intent": "covid_myth_other_vaccines",
+    "intent_prediction": {
+      "name": "covid_myth_alcohol_chlorine_sw",
+      "confidence": 0.37094441056251526
+    }
+  },
+  {
+    "text": "Do hand dryers prevent the spread of the coronavirus?",
+    "intent": "covid_myth_hand_dryers",
+    "intent_prediction": {
+      "name": "covid_how_spread",
+      "confidence": 0.3175680935382843
+    }
+  },
+  {
+    "text": "Are pets carriers for COVID-19?",
+    "intent": "covid_myth_pets",
+    "intent_prediction": {
+      "name": "covid_masks_sw",
+      "confidence": 0.2608511745929718
+    }
+  },
+  {
+    "text": "Can corona survive in the heat?",
+    "intent": "covid_myth_heat_kills",
+    "intent_prediction": {
+      "name": "covid_on_surfaces",
+      "confidence": 0.4315658509731293
+    }
+  },
+  {
+    "text": "Can COVID-19 survive in humid temperatures?",
+    "intent": "covid_myth_heat_kills",
+    "intent_prediction": {
+      "name": "covid_myth_cold_kills",
+      "confidence": 0.40710508823394775
+    }
+  },
+  {
+    "text": "Are children immune from corona?",
+    "intent": "covid_myth_only_old",
+    "intent_prediction": {
+      "name": "covid_children_stress",
+      "confidence": 0.7963700890541077
+    }
+  },
+  {
+    "text": "What should I not do to stop COVID-19?",
+    "intent": "covid_donts",
+    "intent_prediction": {
+      "name": "covid_treatments",
+      "confidence": 0.15059815347194672
+    }
+  },
+  {
+    "text": "Can animals have the coronavirus?",
+    "intent": "covid_infection_sources",
+    "intent_prediction": {
+      "name": "covid_myth_pets",
+      "confidence": 0.8464683890342712
+    }
+  },
+  {
+    "text": "Can I get corona from my pet?",
+    "intent": "covid_infection_sources",
+    "intent_prediction": {
+      "name": "covid_myth_pets",
+      "confidence": 0.5805825591087341
+    }
+  },
+  {
+    "text": "Is there a vaccine against corona?",
+    "intent": "covid_treatments",
+    "intent_prediction": {
+      "name": "covid_myth_other_vaccines",
+      "confidence": 0.6928638815879822
+    }
+  },
+  {
+    "text": "Will I catch the disease?",
+    "intent": "covid_infection_likelihood",
+    "intent_prediction": {
+      "name": "covid_how_spread",
+      "confidence": 0.8030512928962708
+    }
+  },
+  {
+    "text": "What's the minimum time to wash hands?",
+    "intent": "wash_hands_how",
+    "intent_prediction": {
+      "name": "wash_hands_frequency",
+      "confidence": 0.48324114084243774
+    }
+  },
+  {
+    "text": "What's the best thing I can do to keep clean?",
+    "intent": "wash_hands_frequency",
+    "intent_prediction": {
+      "name": "covid_donate",
+      "confidence": 0.20563438534736633
+    }
+  },
+  {
+    "text": "How often should I wash my hands?",
+    "intent": "wash_hands_frequency",
+    "intent_prediction": {
+      "name": "wash_hands_how",
+      "confidence": 0.46533557772636414
+    }
+  },
+  {
+    "text": "COVID-19 inaweza kuishi katika hali ya hewa ya baridi?",
+    "intent": "covid_myth_heat_kills_sw",
+    "intent_prediction": {
+      "name": "covid_myth_cold_kills_sw",
+      "confidence": 0.91681307554245
+    }
+  },
+  {
+    "text": "Nani anaweza kupata corona?",
+    "intent": "covid_myth_only_old_sw",
+    "intent_prediction": {
+      "name": "covid_myth_garlic_sw",
+      "confidence": 0.3737976551055908
+    }
+  },
+  {
+    "text": "Namna gani ninaweza kubaki katika hali nzuri ya akili yangu mu siku za kujifungiya nyumbani",
+    "intent": "covid_stress_sw",
+    "intent_prediction": {
+      "name": "covid_myths_summary_sw",
+      "confidence": 0.2509111166000366
+    }
+  },
+  {
+    "text": "Ma inchi gani ndeza enda amo?",
+    "intent": "covid_travel_advice_sw",
+    "intent_prediction": {
+      "name": "covid_incubation_sw",
+      "confidence": 0.35180145502090454
+    }
+  },
+  {
+    "text": "Mask inaweza nikinga kupata coronavirus?",
+    "intent": "covid_masks_sw",
+    "intent_prediction": {
+      "name": "covid_protection_sw",
+      "confidence": 0.2825520932674408
+    }
+  },
+  {
+    "text": "Kuko chanjo ya corona?",
+    "intent": "covid_treatments_sw",
+    "intent_prediction": {
+      "name": "covid_myth_other_vaccines_sw",
+      "confidence": 0.6227116584777832
+    }
+  },
+  {
+    "text": "Ukingo gani yenyi iko kwa kupiganisha coronavirus?",
+    "intent": "covid_protection_sw",
+    "intent_prediction": {
+      "name": "covid_myths_summary_sw",
+      "confidence": 0.20086275041103363
+    }
+  },
+  {
+    "text": "Minaweza juwa  aye kama mina ambukizwa na coronavirus",
+    "intent": "covid_symptoms_sw",
+    "intent_prediction": {
+      "name": "covid_myth_thermal_scanners_sw",
+      "confidence": 0.20309661328792572
+    }
+  },
+  {
+    "text": "Kunawa mikono ni muzuri?",
+    "intent": "wash_hands_frequency_sw",
+    "intent_prediction": {
+      "name": "wash_hands_how_sw",
+      "confidence": 0.9283376336097717
+    }
+  },
+  {
+    "text": "kwenda mbali",
+    "intent": "goodbye_sw",
+    "intent_prediction": {
+      "name": "wash_hands_frequency",
+      "confidence": 0.17550280690193176
+    }
+  },
+  {
+    "text": "vipi",
+    "intent": "greeting_sw",
+    "intent_prediction": {
+      "name": "greeting",
+      "confidence": 0.34321343898773193
+    }
+  },
+  {
+    "text": "yo",
+    "intent": "greeting_sw",
+    "intent_prediction": {
+      "name": "greeting",
+      "confidence": 0.9635552763938904
+    }
+  }
+]

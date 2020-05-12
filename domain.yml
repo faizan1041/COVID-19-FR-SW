@@ -1,0 +1,332 @@
+intents:
+- covid_myth_cure
+- covid_myth_antibiotics
+- covid_myth_garlic
+- covid_myth_saline_rinse
+- covid_myth_other_vaccines
+- covid_myth_alcohol_chlorine
+- covid_myth_thermal_scanners
+- covid_myth_UV
+- covid_myth_hand_dryers
+- covid_myth_hot_bath
+- covid_myth_pets
+- covid_myth_mosquitos
+- covid_myth_heat_kills
+- covid_myth_cold_kills
+- covid_myth_only_old
+- covid_children_stress
+- covid_stress
+- covid_donate
+- covid_travel_advice
+- covid_myths_summary
+- covid_donts
+- covid_on_surfaces
+- covid_infection_sources
+- covid_incubation
+- covid_masks
+- covid_SARS
+- covid_treatments
+- covid_most_at_risk
+- covid_anxiety
+- covid_infection_likelihood
+- covid_protection
+- covid_how_spread
+- covid_what_is_corona_covid-19
+- covid_symptoms
+- wash_hands_how
+- wash_hands_frequency
+- collect_fallback
+- fallback
+- goodbye
+- greeting
+- covid_myth_cure_sw
+- covid_myth_antibiotics_sw
+- covid_myth_garlic_sw
+- covid_myth_saline_rinse_sw
+- covid_myth_other_vaccines_sw
+- covid_myth_alcohol_chlorine_sw
+- covid_myth_thermal_scanners_sw
+- covid_myth_UV_sw
+- covid_myth_hand_dryers_sw
+- covid_myth_hot_bath_sw
+- covid_myth_pets_sw
+- covid_myth_mosquitos_sw
+- covid_myth_heat_kills_sw
+- covid_myth_cold_kills_sw
+- covid_myth_only_old_sw
+- covid_children_stress_sw
+- covid_stress_sw
+- covid_donate_sw
+- covid_travel_advice_sw
+- covid_myths_summary_sw
+- covid_donts_sw
+- covid_on_surfaces_sw
+- covid_infection_sources_sw
+- covid_incubation_sw
+- covid_masks_sw
+- covid_SARS_sw
+- covid_treatments_sw
+- covid_most_at_risk_sw
+- covid_anxiety_sw
+- covid_infection_likelihood_sw
+- covid_protection_sw
+- covid_how_spread_sw
+- covid_what_is_corona_covid-19_sw
+- covid_symptoms_sw
+- wash_hands_how_sw
+- wash_hands_frequency_sw
+- collect_fallback_sw
+- fallback_sw
+- goodbye_sw
+- greeting_sw
+
+responses:
+
+  utter_answer_Intent:
+  - text: "EN"
+
+  utter_answer_covid_myth_cure:
+  - text: "To date, there is NO specific medicine recommended to prevent or treat the coronavirus."
+
+  utter_answer_covid_myth_antibiotics:
+  - text: "Antibiotics DO NOT work against viruses, antibiotics only work against bacteria."
+
+  utter_answer_covid_myth_garlic:
+  - text: "Garlic is healthy but there is NO evidence from the current outbreak that eating garlic has protected people from the coronavirus."
+
+  utter_answer_covid_myth_saline_rinse:
+  - text: "There is NO evidence that regularly rinsing the nose with saline has protected people from infection with the coronavirus."
+
+  utter_answer_covid_myth_other_vaccines:
+  - text: "Vaccines against pneumonia, such as pneumococcal vaccine and Haemophilus influenzae type b (Hib) vaccine, DO NOT provide protection against the coronavirus."
+
+  utter_answer_covid_myth_alcohol_chlorine:
+  - text: "Spraying alcohol or chlorine all over your body WILL NOT kill viruses that have already entered your body"
+
+  utter_answer_covid_myth_thermal_scanners:
+  - text: "Thermal scanners CAN detect if people have a fever but CANNOT detect whether or not someone has the coronavirus"
+
+  utter_answer_covid_myth_UV:
+  - text: "Ultraviolet light SHOULD NOT be used for sterilization and can cause skin irritation"
+
+  utter_answer_covid_myth_hand_dryers:
+  - text: "Hand dryers are NOT effective in killing the coronavirus"
+
+  utter_answer_covid_myth_hot_bath:
+  - text: "Taking a hot bath DOES NOT prevent the coronavirus"
+
+  utter_answer_covid_myth_pets:
+  - text: "There is NO evidence that companion animals/pets such as dogs or cats can transmit the coronavirus."
+
+  utter_answer_covid_myth_mosquitos:
+  - text: "The coronavirus CANNOT be transmitted through mosquito bites."
+
+  utter_answer_covid_myth_heat_kills:
+  - text: "The coronavirus CAN be transmitted in areas with hot and humid climates"
+
+  utter_answer_covid_myth_cold_kills:
+  - text: "Cold weather and snow CANNOT kill the coronavirus."
+
+  utter_answer_covid_myth_only_old:
+  - text: "People of all ages CAN be infected by the coronavirus. Older people, and people with pre-existing medical conditions (such as asthma, diabetes, heart disease) appear to be more vulnerable to becoming severely ill with the virus."
+
+  utter_answer_covid_children_stress:
+  - text: "Children may respond to stress in different ways such as being more clingy, anxious, withdrawing, angry or agitated, bedwetting etc. Respond to your child’s reactions in a supportive way, listen to their concerns and give them extra love and attention. Children need adults’ love and attention during difficult times. Give them extra time and attention. Remember to listen to your children, speak kindly and reassure them. If possible, make opportunities for the child to play and relax. Try and keep children close to their parents and family and avoid separating children and their caregivers to the extent possible. If separation occurs (e.g. hospitalization) ensure regular contact (e.g. via phone) and re-assurance. Keep to regular routines and schedules as much as possible, or help create new ones in a new environment, including school/learning as well as time for safely playing and relaxing. ℹ Provide facts about what has happened, explain what is going on now and give them clear information about how to reduce their risk of being infected by the disease in words that they can understand depending on their age. This also includes providing information about what could happen in a re-assuring way (e.g. a family member and/or the child may start not feeling well and may have to go to the hospital for some time so doctors can help them feel better)."
+
+  utter_answer_covid_stress:
+  - text: "It is normal to feel sad, stressed, confused, scared or angry during a crisis. Talking to people you trust can help. Contact your friends and family. If you must stay at home, maintain a healthy lifestyle - including proper diet, sleep, exercise and social contacts with loved ones at home and by email and phone with other family and friends. Don’t use smoking, alcohol or other drugs to deal with your emotions. If you feel overwhelmed, talk to a health worker or counsellor. Have a plan, where to go to and how to seek help for physical and mental health needs if required. ℹ Get the facts. Gather information that will help you accurately determine your risk so that you can take reasonable precautions. Find a credible source you can trust such as WHO website or, a local or state public health agency. Limit worry and agitation by lessening the time you and your family spend watching or listening to media coverage that you perceive as upsetting. Draw on skills you have used in the past that have helped you to manage previous life’s adversities and use those skills to help you manage your emotions during the challenging time of this outbreak."
+
+  utter_answer_covid_donate:
+  - text: "Donate now to help fight coronavirus The Covid-19 Solidarity Response Fund is a secure way for individuals, philanthropies and businesses to contribute to the WHO-led effort to respond to the pandemic. Donate here: https://bit.ly/who-covid-19-donate"
+
+  utter_answer_covid_travel_advice:
+  - text: "WHO continues to advise against the application of travel or trade restrictions to countries experiencing COVID-19 outbreaks. It is prudent for travellers who are sick to delay or avoid travel to affected areas, in particular for elderly travellers and people with chronic diseases or underlying health conditions. _Affected areas_ are considered those countries, provinces, territories or cities experiencing ongoing transmission of COVID-19, in contrast to areas reporting only imported cases.  General recommendations for all travellers include: Wash your hands frequently Avoid touching your eyes, mouth and nose Cover your mouth and nose with your bent elbow or tissue when you cough or sneeze Stay more than 1 meter (3 feet) away from a person who is sick Follow proper food hygiene practices Only wear a mask if you are ill with COVID-19 symptoms (especially coughing) or looking after someone who may have COVID-19. Travellers returning from affected areas should: Self-monitor for symptoms for 14 days and follow national protocols of receiving countries. Some countries may require returning travellers to enter quarantine.  If symptoms occur, such as fever, or cough or difficulty breathing, travellers are advised to contact local health care providers, preferably by phone, and inform them of their symptoms and their travel history.  For the latest travel advice: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/travel-advice For the latest situation reports for affected areas:https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/ For advice on proper food hygiene practices: https://www.who.int/foodsafety/publications/consumer/en/5keys_en.pdf?ua=1&ua=1 For advice on visiting live animal markets: https://www.who.int/health-topics/coronavirus/who-recommendations-to-reduce-risk-of-transmission-of-emerging-pathogens-from-animals-to-humans-in-live-animal-markets"
+
+  utter_answer_covid_myths_summary:
+  - text: "There is a lot of false information around. These are the facts. - People of all ages CAN be infected by the coronavirus. Older people, and people with pre-existing medical conditions (such as asthma, diabetes, heart disease) appear to be more vulnerable to becoming severely ill with the virus. Cold weather and snow CANNOT kill the coronavirus. The coronavirus CAN be transmitted in areas with hot and humid climates The coronavirus CANNOT be transmitted through mosquito bites. There is NO evidence that companion animals/pets such as dogs or cats can transmit the coronavirus. Taking a hot bath DOES NOT prevent the coronavirus Hand dryers are NOT effective in killing the coronavirus Ultraviolet light SHOULD NOT be used for sterilization and can cause skin irritation Thermal scanners CAN detect if people have a fever but CANNOT detect whether or not someone has the coronavirus Spraying alcohol or chlorine all over your body WILL NOT kill viruses that have already entered your body Vaccines against pneumonia, such as pneumococcal vaccine and Haemophilus influenzae type b (Hib) vaccine, DO NOT provide protection against the coronavirus. There is NO evidence that regularly rinsing the nose with saline has protected people from infection with the coronavirus.  Garlic is healthy but there is NO evidence from the current outbreak that eating garlic has protected people from the coronavirus. Antibiotics DO NOT work against viruses, antibiotics only work against bacteria. To date, there is NO specific medicine recommended to prevent or treat the coronavirus. Check the facts on the WHO website: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters"
+
+  utter_answer_covid_donts:
+  - text: "The following measures ARE NOT effective against COVID-2019 and can be harmful: - Smoking - Wearing multiple masks - Taking antibiotics In any case, if you have fever, cough and difficulty breathing seek medical care early to reduce the risk of developing a more severe infection and be  sure to share your recent travel history with your health care provider.                                                                                                                                                                                                        "
+
+  utter_answer_covid_on_surfaces:
+  - text: "It is not certain how long the virus that causes COVID-19 survives on surfaces, but it seems to behave like other coronaviruses. Studies suggest that coronaviruses (including preliminary information on the COVID-19 virus) may persist on surfaces for a few hours or up to several days. This may vary under different conditions (e.g. type of surface, temperature or humidity of the environment). The likelihood of an infected person contaminating commercial goods is low and the risk of catching the virus that causes COVID-19 from a package that has been moved, travelled, and exposed to different conditions and temperature is also low. If you think a surface may be infected, clean it with simple disinfectant to kill the virus and protect yourself and others. Clean your hands with an alcohol-based hand rub or wash them with soap and water. Avoid touching your eyes, mouth, or nose."
+
+  utter_answer_covid_infection_sources:
+  - text: "Coronaviruses are a large family of viruses that are common in animals. Occasionally, people get infected with these viruses which may then spread to other people. For example, SARS-CoV was associated with civet cats and MERS-CoV is transmitted by dromedary camels. Possible animal sources of COVID-19 have not yet been confirmed.   To protect yourself, such as when visiting live animal markets, avoid direct contact with animals and surfaces in contact with animals. Ensure good food safety practices at all times. Handle raw meat, milk or animal organs with care to avoid contamination of uncooked foods and avoid consuming raw or undercooked animal products. While there has been one instance of a dog being infected in Hong Kong, to date, there is no evidence that a dog, cat or any pet can transmit COVID-19. COVID-19 is mainly spread through droplets produced when an infected person coughs, sneezes, or speaks. To protect yourself, clean your hands frequently and thoroughly.  WHO continues to monitor the latest research on this and other COVID-19 topics and will update as new findings are available. The risk of catching COVID-19 from the feces of an infected person appears to be low. While initial investigations suggest the virus may be present in feces in some cases, spread through this route is not a main feature of the outbreak. WHO is assessing ongoing research on the ways COVID-19 is spread and will continue to share new findings. Because this is a risk, however, it is another reason to clean hands regularly, after using the bathroom and before eating."
+
+  utter_answer_covid_incubation:
+  - text: "The “incubation period” means the time between catching the virus and beginning to have symptoms of the disease. Most estimates of the incubation period for COVID-19 range from 1-14 days, most commonly around five days. These estimates will be updated as more data become available."
+
+  utter_answer_covid_masks:
+  - text: "Only wear a mask if you are ill with COVID-19 symptoms (especially coughing) or looking after someone who may have COVID-19. Disposable face mask can only be used once. If you are not ill or looking after someone who is ill then you are wasting a mask. There is a world-wide shortage of masks, so WHO urges people to use masks wisely. WHO advises rational use of medical masks to avoid unnecessary wastage of precious resources and mis-use of masks  (see Advice on the use of masks). The most effective ways to protect yourself and others against COVID-19 are to frequently clean your hands, cover your cough with the bend of elbow or tissue and maintain a distance of at least 1 meter (3 feet) from people who are coughing or sneezing. See basic protective measures against the new coronavirus for more information. Remember, a mask should only be used by health workers, care takers, and individuals with respiratory symptoms, such as fever and cough. Before touching the mask, clean hands with an alcohol-based hand rub or soap and water. Take the mask and inspect it for tears or holes. Orient which side is the top side (where the metal strip is). Ensure the proper side of the mask faces outwards (the coloured side). Place the mask to your face. Pinch the metal strip or stiff edge of the mask so it moulds to the shape of your nose. Pull down the mask’s bottom so it covers your mouth and your chin. After use, take off the mask; remove the elastic loops from behind the ears while keeping the mask away from your face and clothes, to avoid touching potentially contaminated surfaces of the mask. Discard the mask in a closed bin immediately after use. Perform hand hygiene after touching or discarding the mask - Use alcohol-based hand rub or, if visibly soiled, wash your hands with soap and water."
+
+  utter_answer_covid_SARS:
+  - text: "The virus that causes COVID-19 and the one that caused the outbreak of Severe Acute Respiratory Syndrome (SARS) in 2003 are related to each other genetically, but the diseases they cause are quite different. SARS was more deadly but much less infectious than COVID-19. There have been no outbreaks of SARS anywhere in the world since 2003."
+
+  utter_answer_covid_treatments:
+  - text: "While some western, traditional or home remedies may provide comfort and alleviate symptoms of COVID-19, there is no evidence that current medicine can prevent or cure the disease. WHO does not recommend self-medication with any medicines, including antibiotics, as a prevention or cure for COVID-19. However, there are several ongoing clinical trials that include both western and traditional medicines. WHO will continue to provide updated information as soon as clinical findings are available. There is no vaccine yet. To date, there is no vaccine and no specific antiviral medicine to prevent or treat COVID-2019. However, those affected should receive care to relieve symptoms. People with serious illness should be hospitalized. Most patients recover thanks to supportive care. Possible vaccines and some specific drug treatments are under investigation. They are being tested through clinical trials. WHO is coordinating efforts to develop vaccines and medicines to prevent and treat COVID-19. The most effective ways to protect yourself and others against COVID-19 are to frequently clean your hands, cover your cough with the bend of elbow or tissue, and maintain a distance of at least 1 meter (3 feet) from people who are coughing or sneezing. (See Basic protective measures against the new coronavirus)."
+
+  utter_answer_covid_most_at_risk:
+  - text: "While we are still learning about how COVID-2019 affects people, older persons and persons with pre-existing medical conditions (such as high blood pressure, heart disease, lung disease, cancer or diabetes) appear to develop serious illness more often than others."
+
+  utter_answer_covid_anxiety:
+  - text: "Illness due to COVID-19 infection is generally mild, especially for children and young adults. However, it can cause serious illness: about 1 in every 5 people who catch it need hospital care. It is therefore quite normal for people to worry about how the COVID-19 outbreak will affect them and their loved ones. We can channel our concerns into actions to protect ourselves, our loved ones and our communities. First and foremost among these actions is regular and thorough hand-washing and good respiratory hygiene. Secondly, keep informed and follow the advice of the local health authorities including any restrictions put in place on travel, movement and gatherings. Learn more about how to protect yourself at https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public"
+
+  utter_answer_covid_infection_likelihood:
+  - text: "The risk depends on where you  are - and more specifically, whether there is a COVID-19 outbreak unfolding there. For most people in most locations the risk of catching COVID-19 is still low. However, there are now places around the world (cities or areas) where the disease is spreading. For people living in, or visiting, these areas the risk of catching COVID-19 is higher. Governments and health authorities are taking vigorous action every time a new case of COVID-19 is identified. Be sure to comply with any local restrictions on travel, movement or large gatherings. Cooperating with disease control efforts will reduce your risk of catching or spreading COVID-19. COVID-19 outbreaks can be contained and transmission stopped, as has been shown in China and some other countries. Unfortunately, new outbreaks can emerge rapidly. It’s important to be aware of the situation where you are or intend to go. WHO publishes daily updates on the COVID-19 situation worldwide. You can see these at https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/"
+
+  utter_answer_covid_protection:
+  - text: "You can reduce your chances of being infected or spreading COVID-19 by taking some simple precautions: Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water.  Why? Washing your hands with soap and water or using alcohol-based hand rub kills viruses that may be on your hands. Maintain at least 1 metre (3 feet) distance between yourself and anyone who is coughing or sneezing. Why? When someone coughs or sneezes they spray small liquid droplets from their nose or mouth which may contain virus. If you are too close, you can breathe in the droplets, including the COVID-19 virus if the person coughing has the disease. Avoid touching eyes, nose and mouth.  Why? Hands touch many surfaces and can pick up viruses. Once contaminated, hands can transfer the virus to your eyes, nose or mouth. From there, the virus can enter your body and can make you sick.  Make sure you, and the people around you, follow good respiratory hygiene. This means covering your mouth and nose with your bent elbow or tissue when you cough or sneeze. Then dispose of the used tissue immediately. Why? Droplets spread virus. By following good respiratory hygiene you protect the people around you from viruses such as cold, flu and COVID-19.  Stay home if you feel unwell. If you have a fever, cough and difficulty breathing, seek medical attention and call in advance. Follow the directions of your local health authority. Why? National and local authorities will have the most up to date information on the situation in your area. Calling in advance will allow your health care provider to quickly direct you to the right health facility. This will also protect you and help prevent spread of viruses and other infections. Keep up to date on the latest COVID-19 hotspots (cities or local areas where COVID-19 is spreading widely). If possible, avoid traveling to places - especially if you are an older person or have diabetes, heart or lung disease. Why? You have a higher chance of catching COVID-19 in one of these areas."
+
+  utter_answer_covid_how_spread:
+  - text: "People can catch COVID-19 from others who have the virus. The disease can spread from person to person through small droplets from the nose or mouth which are spread when a person with COVID-19 coughs or exhales.   These droplets land on objects and surfaces around the person. Other people then catch COVID-19 by touching these objects or surfaces, then touching their eyes, nose or mouth.  People can also catch COVID-19 if they breathe in droplets from a person with COVID-19 who coughs out or exhales droplets.  This is why it is important to stay more than 1 meter (3 feet) away from a person who is sick. WHO is assessing ongoing research on the ways COVID-19 is spread and will continue to share updated findings."
+
+  utter_answer_covid_what_is_corona_covid-19:
+  - text: "Coronaviruses are a large family of viruses which may cause illness in animals or humans. In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as  Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). The most recently discovered coronavirus causes coronavirus disease COVID-19.  COVID-19 is the infectious disease caused by the most recently discovered coronavirus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019."
+
+  utter_answer_covid_symptoms:
+  - text: "Any of: Fever, joint pain, headaches, dry cough, loss of sense of smell may be symptoms"
+
+  utter_answer_wash_hands_how:
+  - text: "You should wash your hands with clean water and soap, for at least 20 seconds. If you have no access to soap and water use sanitizer."
+
+  utter_answer_wash_hands_frequency:
+  - text: "You should wash your hands a lot"
+
+  utter_answer_collect_fallback:
+  - text: "Looks like I'm having trouble. Apologies for that. Let's start again, how can I help you today?"
+
+  utter_answer_fallback:
+  - text: "I'm sorry didn't quite get that. Please say that again."
+
+  utter_answer_goodbye:
+  - text: "Great. Please reach out again if you have any questions."
+
+  utter_answer_greeting:
+  - text: "Hello! I can answer questions about COVID-19. How can I help with today?"
+
+
+  utter_answer_covid_myth_cure_sw:
+  - text: "Mbaka ivi, hakuna dawa ya kipekee iliyotolewa kwa kuzuia ao kutunza coronavirus."
+
+  utter_answer_covid_myth_antibiotics_sw:
+  - text: "Dawa ya kuuwa vidudu mwilini hayizuwiye virusi, inauwa tu vidudu mwilini"
+
+  utter_answer_covid_myth_garlic_sw:
+  - text: "Ayi ni ya lazima ku afya alakini akuna uhakikisho ya kutoka ku iyi magonjwa ya sasa kama kukula ayi inakinga watu na virusi ya corona."
+
+  utter_answer_covid_myth_saline_rinse_sw:
+  - text: "Akuna uhakikisho kama mara kwa mara kusafisha pua na serumu ilikinga watu kuambukizwa na coronavirus."
+
+  utter_answer_covid_myth_other_vaccines_sw:
+  - text: "Chanjo ya ugonjwa ya mafafa, kama vile chanjo pneumococcal na Haemophilus influenzae ya haina b (Hib) chanjo, haikiinge na virusi ya corona."
+
+  utter_answer_covid_myth_alcohol_chlorine_sw:
+  - text: "Kupuliziya dawa ya kimaji ya kuuwa uchafu ao klorini ku mwili haiwezi uwa virusi yenye ilisha ingia mu mwili yako"
+
+  utter_answer_covid_myth_thermal_scanners_sw:
+  - text: "Chombo ya kupima homa (thermo flash) inaweza chunguza kama batu biko na homa alakini haiwezi chunguza kama ndio ao apana mtu iko na virusi ya corona."
+
+  utter_answer_covid_myth_UV_sw:
+  - text: "Mwangaza ya ultraviolet haipashwe kutumikishiwa kwa kusukula viombo kwa sababu inaweza tuma ngozi inawasha"
+
+  utter_answer_covid_myth_hand_dryers_sw:
+  - text: "Chombo ya kukausha mikono haiwezi uwa virusi ya corona"
+
+  utter_answer_covid_myth_hot_bath_sw:
+  - text: "Kunawa na maji ya moto haiwezi zuia virusi ya corona"
+
+  utter_answer_covid_myth_pets_sw:
+  - text: "Akuna uhakikisho kama ma nyama za nyumbani/ ma nyama kama vile imbwa ao pusi inaweza kuambukiza virusi ya corona."
+
+  utter_answer_covid_myth_mosquitos_sw:
+  - text: "Virusi ya corona haiwezi kuambukizwa kupitia imbu."
+
+  utter_answer_covid_myth_heat_kills_sw:
+  - text: "Virusi ya corona inaweza kuambukizwa katika maeneo yenye hali ya hewa ya joto na ya baridi"
+
+  utter_answer_covid_myth_cold_kills_sw:
+  - text: "Baridi na neige habiwezi uwa virusi ya corona."
+
+  utter_answer_covid_myth_only_old_sw:
+  - text: "Batu ba miaka zote banaweza kuambukizwa na virusi ya corona. bazee, na batu benyi biko na magonjwa za kukawiya (kama vile asme, sukari, ugonjwa wa moyo) banaonekana kukuwa katika hatari zaidi ya kushambuliwa na virusi."
+
+  utter_answer_covid_children_stress_sw:
+  - text: "Batoto banaweza ku jibu ku wasiwasi mu njia tafauti kama vile kubana pembeni ya mzazi, kusipo sema, kubaki mu fasi yake yakipekee, ku sirika, ku kuwa mukaramusi, kukoyola ku kitanda, na bingine. kuwa pamoja na mutoto wako na umu unge mkono, sikiliza tatizo zabo na ubaoneshe upendo. batoto bana hitaji upendo wa bakubwa katika hali za magumu. bapatiye wakati. Kumbuka kubasikiliza, ongeya nabo na unyenyekevu kwa kubatosha boga. ikiwezekana ifanye gisi yote bapate wakati ya kucheza. weka batoto karibu na bazazi babo na familia zabo na batu ba kubachunga gisi inawezekana. kama kunakuwa separation kama vile kuba tiya mu hospitali, jikaze bakuwe naongeleshana mara mingi kama vile ku simu. endeleya byenye unafanya kila siku kama vile inavyowezekana"
+
+  utter_answer_covid_stress_sw:
+  - text: "Ni kawaida kujisikia huzuni, msongo, kuchanganyikiwa, hofu au hasira wakati wa mgogoro. Kuzungumza kwa watu unaowaamini anaweza msaada. Wasiliana rafiki yako na familia. Kama ni lazima kukaa nyumbani, kudumisha maisha ya afya - ikiwa ni pamoja malazi, kulala, mazoezi na mawasiliano ya kijamii na wapendwa nyumbani na kwa barua pepe na simu pamoja na familia na marafiki. Je, matumizi ya sigara, pombe au dawa nyingine ya kukabiliana na hisia zako. Kama kuhisi kuzidiwa, majadiliano kwa mhudumu wa afya au mshauri. Na mpango, ambapo kwenda na jinsi ya kutafuta msaada kwa mahitaji ya afya ya mwili na akili kama inavyotakiwa. ℹ Kupata ukweli. Kukusanya taarifa kwamba itasaidia kuamua kwa usahihi hatari ili uweze kuchukua tahadhari busara. Kupata chanzo kuaminika unaweza kutegemea kama vile tovuti WHO au, shirika ndani au hali ya afya ya umma. Limit wasiwasi na fadhaa na kupunguza muda na familia yako kutumia kuangalia au kusikiliza chanjo vyombo vya habari kwamba wanaona kama upsetting. Chora kwenye ujuzi una kutumia awali ambayo yamesaidia kusimamia matatizo maisha ya awali na kutumia ujuzi wale ili kukusaidia kudhibiti hisia zako wakati changamoto ya kuzuka hii."
+
+  utter_answer_covid_donate_sw:
+  - text: "Ku pana msaada kwa kusaidia kupiganisha coronavirus Covid-19 Solidarity Response Fund ni njia nzuri kwa watu, vikundi via kusaidia na biashara ku pana muchango yawo ku kazi ya shirika la afya duniani OMS kwa kupiganisha ugonjwa. Pana msaada apa: https://bit.ly/who-covid-19-donate"
+
+  utter_answer_covid_travel_advice_sw:
+  - text: "WHO inaendelea kutoa ushauri dhidi ya maombi ya vikwazo ya kusafiri au kufanya biashara na nchi inakabiliwa kuzuka COVID-19. Ni jambo la busara kwa ajili ya wasafiri ambao ni wagonjwa kwa kuchelewa au kuepuka kusafiri maeneo yaliyoathirika, hasa kwa ajili ya wasafiri wazee na watu wenye magonjwa sugu au hali ya msingi ya afya. _Maeneo yaliyoathirika_ wanaochukuliwa nchi hizo, mikoa, wilaya au miji kupitia maambukizi unaoendelea wa COVID-19, tofauti na maeneo ya kutoa taarifa ya matukio tu kutoka nje. mapendekezo ya jumla kwa wasafiri wote ni pamoja na: Osha mikono yako mara kwa mara Epuka kugusa macho yako, mdomo na pua Jalada mdomo na pua kwa kiwiko bent yako au tishu wakati kukohoa au kuchemua Kaa zaidi ya mita 1 (3 miguu) mbali na mtu ambaye ni mgonjwa Kufuata njia sahihi usafi wa chakula kuvaa tu kinyago kama wewe ni mgonjwa na COVID-19 dalili (hasa kukohoa) au kuangalia baada ya mtu ambaye anaweza kuwa na COVID-19. Wasafiri kurudi kutoka maeneo yaliyoathirika anatakiwa: Self-kufuatilia kwa dalili kwa siku 14 na kufuata itifaki za taifa kupokea. Baadhi ya nchi inaweza kuhitaji kurudi wasafiri kuingia karantini. Kama dalili kutokea, kama vile homa, au kikohozi au kupumua kwa shida, wasafiri wanashauriwa kuwasiliana watoa huduma za afya, hasa kwa njia ya simu, na kuwajulisha kuhusu dalili zao na historia yao ya kusafiri. Kwa karibuni ushauri wa usafiri: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/travel-advice Kwa ripoti ya karibuni hali ya maeneo yaliyoathirika: https: //www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/ Kwa ushauri wa vitendo sahihi usafi wa chakula: https://www.who.int/foodsafety/publications/consumer/en/5keys_en.pdf?ua=1&ua=1 Kwa ushauri wa kutembelea masoko kuishi mnyama: https://www.who.int/health-topics/coronavirus/who-recommendations-to-reduce-risk-of-transmission-of-emerging-pathogens-from-animals-to-humans-in-live-animal- masoko"
+
+  utter_answer_covid_myths_summary_sw:
+  - text: "Kuna mengi ya uongo kote habari. Hizi ni ukweli. - Watu wa umri wote wanaweza kuambukizwa na coronavirus. wazee, na watu walio na hali ya awali iliyopo ya matibabu (kama vile pumu, kisukari, ugonjwa wa moyo) kuonekana kuwa katika hatari zaidi ya kuwa mgonjwa sana na virusi. Baridi ya hewa na theluji hawezi kuua coronavirus. coronavirus UNAWEZA kuambukizwa katika maeneo yenye hali ya hewa ya joto na baridi coronavirus hawezi kuambukizwa kwa kuumwa na mbu. Kuna NO ushahidi kuwa rafiki wanyama / wanyama kama vile mbwa au paka wanaweza kusambaza coronavirus. Kuchukua umwagaji moto haina kuzuia coronavirus Hand dryers ni NOT ufanisi katika mauaji ya coronavirus Ultraviolet mwanga haipaswi kutumiwa kwa sterilization na inaweza kusababisha ngozi kuwasha Thermal scanners inaweza kuchunguza ikiwa watu kuwa na homa lakini hawezi kuchunguza kama au mtu ana coronavirus Kunyunyizia pombe au klorini juu ya mwili wako itakuwa si kuua virusi tayari kuingia mwili wako Chanjo dhidi ya homa ya mapafu, kama vile chanjo pneumococcal na Haemophilus influenzae aina b (Hib) chanjo, DO NOT kutoa kinga dhidi ya coronavirus. Kuna NO ushahidi kuwa mara kwa mara kusafisha pua kwa chumvi ina ulinzi watu kutoka kuambukizwa na coronavirus. Vitunguu ni afya lakini kuna NO ushahidi kutoka kuzuka sasa kuwa kula vitunguu ina ulinzi watu kutoka coronavirus. Antibiotics kufanya kazi dhidi ya virusi, antibiotics tu kazi dhidi ya bakteria. Hadi sasa, kuna NO maalum dawa ilipendekeza kuzuia au kutibu coronavirus. Angalia ukweli kwenye tovuti WHO: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters"
+
+  utter_answer_covid_donts_sw:
+  - text: "hatua zifuatazo SIO ufanisi dhidi COVID-2019 na inaweza kuwa na madhara: - Sigara - wamevaa masks mbalimbali - Matumizi ya antibiotics Katika hali yoyote, kama una homa, kukohoa na ugumu wa kupumua kutafuta huduma ya matibabu mapema ili kupunguza hatari ya maambukizi kali zaidi na kuhakikisha kushiriki historia yako ya hivi karibuni kusafiri na mtoa huduma ya afya yako."
+
+  utter_answer_covid_on_surfaces_sw:
+  - text: "Si fulani kwa muda gani virusi vinavyosababisha COVID-19 aliyesalia katika nyuso, lakini inaonekana kuwa na tabia kama coronaviruses nyingine. Utafiti unaonyesha kuwa coronaviruses (pamoja na habari za awali juu ya COVID-19 virus) inaweza kuendelea juu ya nyuso kwa saa chache au siku kadhaa. Hii inaweza kutofautiana katika hali tofauti (kwa mfano aina ya uso, joto au unyevunyevu wa mazingira). uwezekano wa mtu aliyeambukizwa kuchafua bidhaa za biashara ni ya chini na hatari ya kuambukizwa virusi vinavyosababisha COVID-19 kutoka mfuko ambayo imekuwa wakiongozwa, alisafiri, na wazi kwa hali tofauti na hali ya joto ni pia chini. Kama unafikiri uso inaweza kuwa ya kuambukizwa, safi na disinfectant rahisi kuua virusi na kujilinda mwenyewe na wengine. Osha mikono yako na kusugua spiriti au safisha yao kwa sabuni na maji. Epuka kugusa macho, mdomo, au pua."
+
+  utter_answer_covid_infection_sources_sw:
+  - text: "Coronaviruses ni familia kubwa ya virusi ambayo ni ya kawaida kwa wanyama. Mara kwa mara, watu kuambukizwa na virusi hivi ambazo zinaweza kisha kuenea kwa watu wengine. Kwa mfano, SARS-cov alikuwa yanayohusiana na paka civet na mers-cov inasambazwa na ngamia ngamia. vyanzo iwezekanavyo wanyama ya COVID-19 bado kuthibitishwa. Ya kujikinga, kama vile wakati kutembelea masoko kuishi wanyama, kuepuka kuwasiliana moja kwa moja na wanyama na sehemu katika kuwasiliana na wanyama. Kuhakikisha mbinu bora usalama wa chakula wakati wote. Kushughulikia nyama mbichi, maziwa au mnyama vyombo kwa uangalifu ili kuepuka uchafuzi wa chakula kibichi na kuepuka kuteketeza bidhaa mbichi au vilivyopikwa mnyama. Wakati kumekuwa na tukio moja ya mbwa kuwa wameambukizwa katika Hong Kong, hadi sasa, hakuna ushahidi kuwa mbwa, paka au mnyama yeyote anaweza kuwasilisha COVID-19. COVID-19 ni hasa kuenea kwa njia ya matone zinazozalishwa wakati kuambukizwa mtu mafua, kupiga chafya, au anaongea. Kwa kujilinda, safi mikono mara kwa mara na vizuri. WHO inaendelea kufuatilia utafiti karibuni kwenye hii na nyingine mada COVID-19 na sasisha matokeo mapya zinapatikana. hatari ya kuambukizwa COVID-19 kutoka kinyesi cha mtu aliyeambukizwa inaonekana kuwa ya chini. Wakati uchunguzi wa awali zinaonyesha virusi inaweza kuwa sasa katika kinyesi wakati mwingine, kuenea kupitia njia hii si kipengele kuu ya kuzuka. WHO ni kutathmini utafiti unaoendelea juu ya njia COVID-19 ni kuenea na itaendelea kutumia matokeo ya utafiti mpya. Kwa sababu hii ni hatari, hata hivyo, ni sababu nyingine ya mikono safi mara kwa mara, baada ya kutumia bafuni na kabla ya kula."
+
+  utter_answer_covid_incubation_sw:
+  - text: "Kipindi incubation maana muda kati ya kuambukizwa virusi na wanaanza kuwa na dalili za ugonjwa huo. makadirio mengi ya kipindi cha kupevuka kwa COVID-19 ni kati ya siku 1-14, kawaida karibu siku tano. makadirio haya itakuwa updated kama data zaidi kupatikana."
+
+  utter_answer_covid_masks_sw:
+  - text: "kuvaa tu kinyago kama wewe ni mgonjwa na COVID-19 dalili (hasa kukohoa) au kuangalia baada ya mtu ambaye anaweza kuwa na COVID-19. Disposable mask uso inaweza tu kutumika mara moja. Kama wewe si mgonjwa au kuangalia baada ya mtu ambaye ni mgonjwa basi ni kupoteza mask. Kuna duniani kote uhaba wa masks, hivyo WHO inataka watu kutumia masks kwa busara. WHO kushauri matumizi bora ya masks matibabu ili kuepuka upotevu wa rasilimali lazima thamani na mis-matumizi ya masks (tazama Ushauri juu ya matumizi ya masks). ufanisi njia za kujikinga na wengine dhidi ya COVID-19 ni kwa mara nyingi kusafisha mikono, kufunika kikohozi yako na kona ya kiwiko au tishu na kudumisha umbali wa angalau mita 1 (3 miguu) kutoka kwa watu ambao ni kukohoa au kupiga chafya . Angalia hatua ya msingi ya kinga dhidi ya coronavirus mpya kwa taarifa zaidi. Kumbuka, kinyago lazima tu kutumika na wafanyakazi wa afya, huduma ya takers, na watu binafsi na dalili ya kupumua, kama vile homa na kukohoa. Kabla kugusa kinyago, mikono safi kwa mkono kusugua-pombe msingi au sabuni na maji. Kuchukua kinyago na kukagua ni kwa ajili machozi au mashimo. Orient ni upande ni juu ya upande (ambapo chuma strip ni). Kuhakikisha upande mzuri wa kinyago nyuso outwards (upande rangi). Nafasi kinyago kwa uso wako. Bana chuma strip au makali ngumu ya kinyago hivyo huumba sura ya pua yako. Vuta chini chini kinyago ili ni inashughulikia mdomo wako na kidevu yako. Baada ya kutumia, kuchukua mbali kinyago; kuondoa mizunguko elastic kutoka nyuma masikio huku ukiweka kinyago mbali na uso wako na nguo, ili kuepuka kugusa sehemu uwezekano machafu ya mask. Tupa kinyago katika bin imefungwa mara baada ya kutumia. Kufanya usafi mkono baada kugusa au kutupa kinyago - Matumizi pombe kupanguza mikono au, kama kuonekana soiled, kuosha mikono yako kwa sabuni na maji."
+
+  utter_answer_covid_SARS_sw:
+  - text: "virusi vinavyosababisha COVID-19 na moja lililosababisha kuzuka kwa makali papo hapo Respiratory Syndrome (SARS) mwaka 2003 ni kuhusiana na kila mmoja na jeni, lakini magonjwa kusababisha ni tofauti kabisa. SARS ilikuwa zaidi ya mauti lakini kiasi kidogo ya kuambukiza ya COVID-19. Kumekuwa hakuna kuzuka SARS popote duniani tangu mwaka wa 2003."
+
+  utter_answer_covid_treatments_sw:
+  - text: "Wakati baadhi ya magharibi, jadi au nyumbani tiba inaweza kutoa faraja na kupunguza dalili za COVID-19, hakuna ushahidi kuwa dawa sasa wanaweza kuzuia au kutibu ugonjwa huo. WHO haipendekezi kujitibu kwa dawa yoyote, ikiwa ni pamoja na antibiotics, kama kuzuia au tiba ya COVID-19. Hata hivyo, kuna kadhaa unaoendelea kliniki majaribio ambazo ni pamoja na dawa za wote magharibi na jadi. WHO itaendelea kutoa taarifa updated mara tu matokeo ya kliniki zinapatikana. Hakuna chanjo bado. Hadi sasa, hakuna chanjo na hakuna maalum za kuzuia virusi dawa za kuzuia au kutibu COVID-2019. Hata hivyo, wale walioathirika inapaswa kupokea huduma ya dalili kupunguza. Watu wenye ugonjwa wa hatari lazima hospitalini. wagonjwa wengi kupona kutokana na huduma mkono. chanjo iwezekanavyo na baadhi ya matibabu maalum ya madawa ya kulevya ni chini ya uchunguzi. Wao ni kuwa kipimo kwa njia ya majaribio ya kliniki. WHO ni kuratibu juhudi za kubuni chanjo na madawa ya kuzuia na kutibu COVID-19. ufanisi njia za kujikinga na wengine dhidi ya COVID-19 ni kwa mara nyingi kusafisha mikono, kufunika kikohozi yako na kona ya kiwiko au tishu, na kudumisha umbali wa angalau mita 1 (3 miguu) kutoka kwa watu ambao ni kukohoa au kupiga chafya. (Hatua See Basic kinga dhidi coronavirus mpya)."
+
+  utter_answer_covid_most_at_risk_sw:
+  - text: "Wakati tungali najifunza gisi COVID-19 inasumbuwa watu, bazee na  batu benyi biko na magonjwa za kukawiya (kama vile tension, magonjwa ya moyo, cancer ao sukari, ugonjwa wa moyo) banaonekana kukuwa katika hatari zaidi ya kushambuliwa na virusi kushinda bengine batu."
+
+  utter_answer_covid_anxiety_sw:
+  - text: "Ugonjwa kutokana na COVID-19 maambukizi ni kawaida kidogo, hasa kwa watoto na vijana. Hata hivyo, inaweza kusababisha ugonjwa: kuhusu 1 katika kila watu 5 ambao kupata hiyo wanahitaji huduma ya hospitali. Kwa hivyo ni kawaida kabisa kwa watu wasiwasi kuhusu jinsi COVID-19 kuzuka yataathiri wao na wapendwa wao. Tunaweza kuelekeza matatizo yetu katika hatua za kujilinda, wapendwa wetu na jamii zetu. Kwanza kabisa kati ya hatua hizi ni mara kwa mara na ya uhakika kuosha mkono na nzuri ya kupumua usafi wa mazingira. Pili, kuweka taarifa na kufuata ushauri wa mamlaka za afya ndani ikiwa ni pamoja vikwazo vyovyote kuweka juu ya usafiri, harakati na mikutano. Pata maelezo zaidi kuhusu jinsi ya kujilinda kwa https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public"
+
+  utter_answer_covid_infection_likelihood_sw:
+  - text: "hatari inategemea ambapo wewe ni - na hasa zaidi, kama kuna COVID-19 kuzuka inayojitokeza huko. Kwa watu wengi katika maeneo mengi ya hatari ya kuambukizwa COVID-19 bado ni ya chini. Hata hivyo, kuna sasa maeneo duniani kote (miji au maeneo) ambapo ugonjwa huo kuenea. Kwa watu wanaoishi katika, au kutembelea, maeneo haya hatari ya kuambukizwa COVID-19 ni ya juu. Serikali na mamlaka za afya ni kuchukua hatua kraftfulla kila wakati mpya kesi ya COVID-19 ni kutambuliwa. Kuwa na uhakika wa kuzingatia vikwazo vyovyote mitaa juu ya kusafiri, harakati au mikusanyiko mikubwa. Kushirikiana na juhudi za kudhibiti magonjwa itapunguza hatari ya kuambukizwa au kueneza COVID-19. kuzuka COVID-19 inaweza zilizomo na maambukizi kusimamishwa, kama imeonekana katika China na baadhi ya nchi nyingine. Kwa bahati mbaya, kuzuka mpya inaweza kuibuka kwa kasi. Ni muhimu kufahamu hali ulipo au nia ya kwenda. WHO kuchapisha updates kila siku kwenye COVID-19 hali duniani kote. Unaweza kuona haya katika https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/"
+
+  utter_answer_covid_protection_sw:
+  - text: "Unaweza kupunguza uwezekano wa kuwa wameambukizwa au kueneza COVID-19 kwa kuchukua baadhi ya tahadhari rahisi: Mara kwa mara na kabisa kusafisha mikono yako na kusugua spiriti au safisha yao kwa sabuni na maji.  Kwa nini? Kuosha mikono kwa sabuni na maji au kutumia pombe kupanguza mikono unaua virusi ambayo inaweza kuwa juu ya mikono yako. Dumisha angalau mita 1 (3 miguu) umbali kati ya wewe na mtu yeyote ambaye kukohoa au kupiga chafya. Kwa nini? Mtu anapokohoa au kupiga chafya wao dawa ndogo matone kioevu kutoka pua zao au mdomo ambayo huenda ikawa na virusi vya ukimwi. Kama una karibu sana, unaweza kupumua katika matone, ikiwa ni pamoja COVID-19 virus kama mtu kukohoa ina ugonjwa huo. Epuka kugusa macho, pua na mdomo.  Kwa nini? Mikono kugusa nyuso mengi na unaweza kuchukua virusi. Mara baada ya kuingiwa, mikono inaweza kuhamisha virusi macho, pua au mdomo. Kutoka hapo, virusi vinaweza kuingia mwilini na inaweza kukufanya uwe mgonjwa. Hakikisha, na watu karibu na wewe, kufuata nzuri ya kupumua usafi wa mazingira. Hii ina maana kufunika mdomo na pua kwa kiwiko bent yako au tishu wakati kukohoa au kuchemua. Kisha kuondoa kitambaa kilichotumika mara moja. Kwa nini? Matone kuenea virusi. Kwa kufuata nzuri ya kupumua usafi kulinda watu walio karibu nawe virusi kama vile baridi, mafua na COVID-19. Stay nyumbani kama wewe kujisikia vibaya. Kama una homa, kukohoa na ugumu wa kupumua, kutafuta matibabu na wito mapema. Kufuata maelekezo ya mamlaka yako ya karibu. Kwa nini? Taifa na Serikali za Mitaa itakuwa na za hivi sasa taarifa juu ya hali ya katika eneo lako. Kupiga mapema itaruhusu mhudumu wa afya yako kwa haraka moja kwa moja wewe kituo cha afya ya haki. Hii pia kulinda na kusaidia kuzuia kuenea kwa virusi na maambukizi mengine. Kuendelea hadi tarehe juu ya karibuni COVID-19 maeneo yenye (miji au maeneo ya ndani ambapo COVID-19 ni kueneza sana). Kama inawezekana, kuepuka kusafiri kwa maeneo - hasa kama wewe ni mtu mzima au kuwa na ugonjwa wa kisukari, moyo au ugonjwa wa mapafu. Kwa nini? Una nafasi kubwa ya kuambukizwa COVID-19 katika moja ya maeneo haya."
+
+  utter_answer_covid_how_spread_sw:
+  - text: "Watu wanaweza kupata COVID-19 na wengine walio na virusi vya ukimwi. ugonjwa huo unaweza kuenea kutoka mtu mmoja hadi mwingine kwa njia ya matone ndogo kutoka pua au mdomo ambayo ni kuenea wakati mtu aliye na mafua COVID-19 au exhales. matone haya nchi juu ya vitu na sehemu karibu mtu. Watu wengine kisha kupata COVID-19 kwa kugusa vitu hizi au nyuso, basi kugusa macho yao, pua au mdomo. Watu wanaweza pia kupata COVID-19 kama kupumua katika matone kutoka kwa mtu kwa COVID-19 ambao anapokohoa nje au exhales matone. Hii ni kwa nini ni muhimu kukaa zaidi ya mita 1 (3 miguu) mbali na mtu ambaye ni mgonjwa. WHO ni kutathmini utafiti unaoendelea juu ya njia COVID-19 ni kuenea na itaendelea kutumia matokeo ya utafiti updated."
+
+  utter_answer_covid_what_is_corona_covid-19_sw:
+  - text: "Coronaviruses ni familia kubwa ya virusi ambavyo vinaweza kusababisha ugonjwa kwa wanyama au binadamu. Kwa binadamu, coronaviruses kadhaa inayojulikana kusababisha maambukizi ya koo kuanzia baridi ya kawaida na magonjwa kali zaidi kama vile Mashariki ya Kati Respiratory Syndrome (mers) na kali papo hapo Respiratory Syndrome (SARS). coronavirus hivi karibuni aligundua husababisha ugonjwa coronavirus COVID-19. COVID-19 ni ugonjwa wa kuambukiza unaosababishwa na coronavirus hivi karibuni kupatikana. Hii virusi mpya na ugonjwa walikuwa haijulikani kabla ya kuzuka ilianza Wuhan, China, Desemba 2019."
+
+  utter_answer_covid_symptoms_sw:
+  - text: "Yoyote ya: Homa, maumivu, maumivu ya kichwa, kukohoa, kupoteza hisia za harufu inaweza kuwa na dalili"
+
+  utter_answer_wash_hands_how_sw:
+  - text: "Lazima kuosha mikono yako na maji safi na sabuni, angalau kwa sekunde 20. Ikiwa hauna upatikanaji wa sabuni na matumizi ya maji sanitizer."
+
+  utter_answer_wash_hands_frequency_sw:
+  - text: "Lazima kunawa mikono yako mara mingi"
+
+  utter_answer_collect_fallback_sw:
+  - text: "Inaonekana kama mimi nina matatizo. Samahani kwa hilo. Hebu tuanze tena, namna gani naweza kukusaidia leo?"
+
+  utter_answer_fallback_sw:
+  - text: "Samahani sikusikia hiyo. Tafadhali rudilia kusema tena."
+
+  utter_answer_goodbye_sw:
+  - text: "Asante. Tafadhali tuandikiye tena kama una maswali yoyote."
+
+  utter_answer_greeting_sw:
+  - text: "Hello! Naweza kujibu maswali kuhusu COVID-19 naweza kukusaidia na leo?"
+
+
+session_config: 
+  session_expiration_time: 60 
+  carry_over_slots_to_new_session: true
