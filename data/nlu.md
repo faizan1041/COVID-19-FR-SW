@@ -1,362 +1,368 @@
+
 ## intent:covid_myth_cure
-- Peut-on guérir du COVID-19 ?
-- Y a-t-il quelque chose qui guérisse du coronavirus ?
-- Y a-t-il un remède contre le corona ?
-- Quel est le remède contre le COVID-19 ?
-- Quelqu'un a-t-il trouvé un remède contre le coronavirus ?
-- Y a-t-il un remède contre le COVID-19 ?
-- Un remède contre le corona a-t-il été trouvé ?
+- Can people be cured of COVID-19?
+- Is there anything that cures the coronavirus?
+- Does corona have a cure?
+- What is the cure for COVID-19?
+- Has someone found a cure for the coronavirus?
+- Is there a cure for COVID-19?
+- Has a cure for corona been found?
 
 ## intent:covid_myth_antibiotics
-- Existe-t-il des preuves que les antibiotiques tuent le COVID-19 ?
-- Comment les antibiotiques empêchent-ils l'infection au COVID-19 ?
-- Le corona peut-il être guéri à l'aide d'antibiotiques ?
-- Existe-t-il des antibiotiques pouvant tuer le coronavirus ?
-- Les antibiotiques peuvent-ils tuer le coronavirus ?
-- Quels antibiotiques empêchent l'infection au COVID-19 ?
-- Devrais-je commencer à prendre plus d'antibiotiques ?
+- Is there any proof of antibiotics killing COVID-19?
+- How do antibiotics prevent infection of COVID-19?
+- Can corona be cured with antibiotics?
+- Are there any antibiotics that can kill the coronavirus?
+- Can antibiotics kill the coronavirus?
+- What antibiotics prevent COVID-19?
+- Should I start taking more antibiotics?
 
 ## intent:covid_myth_garlic
-- Puis-je utiliser l'ail comme un moyen de me protéger du coronavirus ?
-- Comment l'ail protège-t-il du COVID-19 ?
-- Est-il vrai que l'ail a empêché les gens d'attraper le coronavirus ?
-- L'ail peut-il tuer le corona ?
-- Quels sont les bienfaits de l'ail ?
-- Devrais-je commencer à manger davantage d'ail ?
-- L'ail peut-il empêcher d'attraper le COVID-19 ?
+- Can I use garlic as a way of protecting myself from the coronavirus?
+- How does garlic prevent COVID-19?
+- Is it true that garlic has prevented people from getting the coronavirus?
+- Can garlic kill corona?
+- What are the benefits of garlic?
+- Should I start eating more garlic?
+- Does garlic prevent COVID-19?
 
 ## intent:covid_myth_saline_rinse
-- Pourquoi le sérum physiologique peut-il tuer le corona ?
-- Le fait de me laver le nez peut-il m'empêcher d'attraper le coronavirus ?
-- Y a-t-il des preuves que le sérum physiologique tue le COVID-19 ?
-- En quoi du sérum physiologique peut-il empêcher le corona d'évoluer ?
-- Puis-je utiliser du sérum physiologique pour arrêter l'évolution du coronavirus ?
-- Est-il vrai que le lavage de nez à l'aide de sérum physiologique empêche le COVID-19 d'évoluer ?
-- Devrais-je me laver le nez avec du sérum physiologique ?
+- Why can saline kill corona?
+- Does rinsing my nose prevent the coronavirus?
+- Is there evidence that saline kills COVID-19?
+- How does saline prevent corona?
+- Can I use saline to stop the coronavirus?
+- Is it true that rinsing your nose with saline prevents COVID-19?
+- Should I rinse my nose with saline?
 
 ## intent:covid_myth_other_vaccines
-- Quels vaccins contre le corona sont disponibles ?
-- Les vaccins sont-ils efficaces pour tuer le corona ?
-- Est-il vrai que les vaccins neutralisent le coronavirus ?
-- Le vaccin contre la pneumonie peut-il empêcher l'infection au corona ?
-- Puis-je utiliser le vaccin contre la pneumonie pour éviter d'attraper le COVID-19 ?
-- Devrais-je me faire vacciner contre la pneumonie ?
-- D'autres vaccins protègent-ils du coronavirus ?
+- What vaccines can I get against corona?
+- Are vaccines effective in killing corona?
+- Is it true that vaccines stop the coronavirus?
+- Does the pneumonia vaccine prevent infection from corona?
+- Can I use the vaccine against pneumonia to prevent COVID-19?
+- Should I get a vaccine against pneumonia?
+- Do other vaccines prevent the coronavirus?
 
 ## intent:covid_myth_alcohol_chlorine
-- Que puis-je utiliser pour guérir du coronavirus ?
-- Peut-on guérir du COVID-19 grâce au chlore ?
-- Puis-je utiliser de l'alcool ou du chlore pour tuer le coronavirus ?
-- Pulvériser du chlore sur mon corps me guérira-t-il du COVID-19 ?
-- Devrais-je utiliser un spray au chlore pour guérir du corona ?
-- Si j'ai attrapé le corona, l'alcool permet-il de le tuer ?
-- Pulvériser de l'alcool sur mon corps me guérira-t-il du corona ?
+- What can I use to cure the coronavirus?
+- Is chlorine a way of curing COVID-19?
+- Can I use alcohol or chlorine to kill the coronavirus?
+- Does spraying chlorine on yourself cure COVID-19?
+- Should i use a chlorine spray to cure corona?
+- Does alcohol kill corona if I have it?
+- Does spraying alcohol on yourself cure corona?
 
 ## intent:covid_myth_thermal_scanners
-- Les scanners thermiques sont-ils un bon moyen de détection du corona ?
-- Quelle est la précision des tests réalisés à l'aide de scanners thermiques ?
-- Quelle est la fonction des scanners thermiques ?
-- Puis-je utiliser un scanner thermique pour voir si j'ai attrapé le corona ?
-- Que font les scanners thermiques ?
-- Les scanners thermiques sont-ils un test pour le COVID-19 ?
-- Les scanners thermiques peuvent-ils détecter le corona ?
+- Are thermal scanners a good way of seeing if you have corona?
+- How accurate are thermal scanners as a test?
+- What is the function of thermal scanners?
+- Can I use a thermal scanner to see if I have corona?
+- What do thermal scanners do?
+- Are thermal scanners a test for COVID-19?
+- Can thermal scanners detect corona?
 
 ## intent:covid_myth_UV
-- La lumière ultraviolette désinfecte-t-elle du COVID-19 ?
-- Est-il possible d'utiliser la lumière ultraviolette pour désinfecter ma peau ?
-- Comment la lumière ultraviolette désinfecte-t-elle ?
-- Est-il vrai que la lumière ultraviolette tue le COVID-19 ?
-- Puis-je utiliser la lumière ultraviolette pour stériliser une surface ?
-- La lumière ultraviolette tue-t-elle le virus ?
-- Que fait la lumière ultraviolette ?
+- Does ultraviolet light disinfect against COVID-19?
+- IS it possible to use ultaviolet light to disinfect my skin?
+- How does ultraviolet light disinfect?
+- Is it true that ultraviolet light kills COVID-19?
+- Can I use ultraviolet light to sterilize a surface?
+- Does ultraviolet light kill the virus?
+- What does ultraviolet light do?
 
 ## intent:covid_myth_hand_dryers
-- Les sèche-mains sont-ils efficaces pour tuer le coronavirus ?
-- Est-il possible d'utiliser un sèche-mains pour éviter d'attraper le corona ?
-- Puis-je utiliser un sèche-mains pour tuer le COVID-19 ?
-- Les sèche-mains peuvent-ils empêcher la propagation du coronavirus ?
-- Est-il vrai que les sèche-mains tuent le corona ?
-- Puis-je éviter d'attraper le COVID-19 si j'utilise un sèche-mains ?
-- Les sèche-mains peuvent-ils tuer le coronavirus ?
+- Are hand dryers effective in killing the coronavirus?
+- Is it possible to use a hand dryer to prevent getting corona?
+- Can I use a hand dryer to kill COVID-19?
+- Do hand dryers prevent the spread of the coronavirus?
+- Is it true that hand dryers kill corona?
+- Can I prevent COVID-19 by using a hand dryer?
+- Do hand dryers kill the coronavirus?
 
 ## intent:covid_myth_hot_bath
-- Puis-je éviter d'attraper le COVID-19 en prenant un bain chaud ?
-- L'eau chaude peut-elle tuer le coronavirus ?
-- Le COVID-19 meurt-il dans un bain chaud ?
-- Dois-je prendre un bain pour ne pas attraper le coronavirus ?
-- L'eau chaude peut-elle aider à lutter contre le corona ?
-- Les bains empêchent-ils d'attraper le coronavirus ?
-- Puis-je me prémunir contre le COVID-19 en prenant un bain ?
+- Is COVID-19 be prevented by taking a hot bath?
+- Can hot water kill the coronavirus?
+- Does COVID-19 die in a hot bath?
+- Should I take a bath to prevent the coronavirus?
+- Can hot water help against corona?
+- Do baths prevent the coronavirus?
+- Can I prevent COVID-19 with a bath?
 
 ## intent:covid_myth_pets
-- Les animaux domestiques sont-ils à l'abri du coronavirus ?
-- Mon animal de compagnie peut-il attraper le corona ?
-- Les animaux domestiques sont-ils porteurs du COVID-19 ?
-- Mon chat pourrait-il attraper le corona ?
-- Est-il possible pour moi de contracter le coronavirus par mon chien ?
-- Les animaux peuvent-ils avoir le COVID-19 ?
-- Mes animaux domestiques peuvent-ils me transmettre le corona ?
+- Are pets immune from the coronavirus?
+- Can my pet get corona?
+- Are pets carriers for COVID-19?
+- Could my cat have corona?
+- Is it possible for me to get the coronavirus from my dog?
+- Can animals have COVID-19?
+- Can my pets give me corona?
 
 ## intent:covid_myth_mosquitos
-- Est-ce vrai que les moustiques peuvent transmettre le corona ?
-- Une piqûre de moustique peut-elle contenir le corona ?
-- Les moustiques peuvent-ils transmettre le coronavirus ?
-- Un moustique peut-il me transmettre le COVID-19 ?
-- Est-il possible d'attraper le coronavirus à partir de piqûres de moustiques ?
-- Les moustiques peuvent-ils me transmettre le corona ?
-- Puis-je attraper le COVID-19 par une piqûre de moustique ?
+- Is it true that you can get corona form mosquitos?
+- Can a mosquito bite contain corona?
+- Can mosquitos transfer the coronavirus?
+- Is there any way a mosquito can give me COVID-19?
+- Is it possible to get the coronavirus from mosquito bites?
+- Can mosquitos give me corona?
+- Can I get COVID-19 from a mosquito bite?
 
 ## intent:covid_myth_heat_kills
-- L'humidité est-elle mauvaise pour le corona ?
-- Les températures élevées sont-elles mauvaises pour le coronavirus ?
-- Le corona peut-il survivre à la chaleur ?
-- Le COVID-19 peut-il mourir à une certaine température ?
-- Le corona peut-il ne pas être transmis lorsqu'il fait chaud ?
-- Le COVID-19 peut-il survivre à des températures humides ?
-- La chaleur tue-t-elle réellement le coronavirus ?
+- Is humidity bad for corona?
+- Are hot temperatures bad for the coronavirus?
+- Can corona survive in the heat?
+- Is there a temperature that kills COVID-19?
+- Can corona not be transmitted when it's hot?
+- Can COVID-19 survive in humid temperatures?
+- Does the heat actually kill the coronavirus?
 
 ## intent:covid_myth_cold_kills
-- Le froid tue-t-il le coronavirus ?
-- La neige peut-elle tuer le corona ?
-- Quelle est la pire température pour le COVID-19 ?
-- Le coronavirus meurt-il dans la neige ?
-- Le froid tue-t-il le COVID-19 ?
-- Le corona peut-il survivre à n'importe quelle température ?
-- Le froid empêche-t-il d'attraper le corona ?
+- Does the cold kill the coronavirus?
+- Does snow kill corona?
+- What temperature is worst for COVID-19?
+- Does the coronavirus die in snow?
+- Do cold temperatures kill COVID-19?
+- Does corona survive in any temperature?
+- Does the cold prevent corona?
 
 ## intent:covid_myth_only_old
-- Les jeunes peuvent-ils être infectés par le COVID-19 ?
-- Qui est le plus susceptible d'être infecté par le coronavirus ?
-- Le COVID-19 ne cible-t-il que les personnes âgées ?
-- Qui est le plus susceptible d'attraper le corona ?
-- Une catégorie d'âge particulière est-elle immunisée contre le corona ?
-- Qui peut attraper le corona ?
-- Les enfants sont-ils immunisés contre le corona ?
+- Can young people get infected with COVID-19?
+- Who is most likely to get infected with the coronavirus?
+- Can only old people get COVID-19?
+- Who is most likely to get corona?
+- Is any age group immune from corona?
+- Who can get corona?
+- Are children immune from corona?
 
 ## intent:covid_children_stress
-- Comment apaiser les enfants pendant la pandémie du COVID-19 ?
-- Comment faire en sorte que les enfants soient heureux pendant le confinement ?
-- Que devrais-je faire avec les enfants pendant la pandémie du COVID-19 ?
-- Comment occuper les enfants pendant le confinement ?
-- Que puis-je faire pour aider les enfants à se sentir moins stressés ?
-- Mes enfants sont stressés, que dois-je faire ?
-- Puis-je aider mes enfants à gérer leur stress ?
+- How can I keep children calm during COVID-19?
+- How can I help kids to stay happy during quarantine?
+- What should I do with children during COVID-19?
+- What should I do to distract children during quarantine?
+- What can I do to help children feel less stressed?
+- My kids are stressed, what should I do?
+- Can I help my kids with stress?
 
 ## intent:covid_stress
-- Existe-t-il des ressources pour aider à faire face au stress ?
-- Comment garder le moral pendant le confinement ?
-- Comment puis-je faire face au stress pendant le confinement ?
-- Que puis-je faire contre le stress pendant la crise du coronavirus ?
-- Que dois-je faire si je me sens stressé(e) à cause du COVID-19 ?
-- Puis-je faire quelque chose contre le stress ?
-- Comment puis-je faire face au stress lié au corona ?
+- Are there any resources to help cope with stress?
+- How can I keep my mental health up during quarantine?
+- How do I deal with stress during quarantine?
+- What do I do against feeling stress during the coronavirus?
+- What should I do when I feel stressed because of COVID-19?
+- Is there something I can do against stress?
+- How can I deal with the stress from corona?
 
 ## intent:covid_donate
-- Où devrais-je faire un don ?
-- Puis-je faire un don à l'OMS ?
-- Où puis-je donner de l'argent pour aider à la recherche contre le corona ?
-- Est-il possible de faire un don pour lutter contre le COVID-19 ?
-- Quels sites Web puis-je utiliser pour faire un don pour lutter contre le coronavirus ?
-- Puis-je faire un don pour aider à combattre le corona ?
-- Où puis-je faire un don pour la guérison du COVID-19 ?
+- Where should I donate?
+- Can I donate to WHO?
+- Where can I give money to corona research?
+- Is it possible to donate money to COVID-19?
+- What websites can I use to donate for the coronavirus?
+- Can I donate to help fight corona?
+- Where can I donate to cure COVID-19?
 
 ## intent:covid_travel_advice
-- Où puis-je trouver des conseils de voyage ?
-- Dois-je voyager si je suis malade ?
-- Comment puis-je me protéger contre le COVID-19 lors d'un voyage ?
-- Devrais-je éviter de voyager à cause du corona ?
-- Dans quels pays puis-je voyager ?
-- Puis-je encore voyager ?
-- Où puis-je voyager ?
+- Where can I find travel advice?
+- Should I travel if I'm sick?
+- How can I protect myself from COVID-19 while travelling?
+- Should I not be travelling because of corona?
+- What countries can I travel to?
+- Can I still travel?
+- Where can I travel?
 
 ## intent:covid_myths_summary
-- Pouvez-vous briser certains mythes sur le COVID-19 ?
-- Quels sont les faits sur le coronavirus ?
-- Quelles sont les informations avérées à propos du COVID-19 ?
-- Y a-t-il eu de la désinformation sur le corona ?
-- Y a-t-il des mythes au sujet du coronavirus ?
-- Y a-t-il des informations erronées sur le COVID-19 ?
-- Quels sont les mythes à propos du corona ?
+- Can you bust some myths about COVID-19?
+- What are the facts about the coronavirus?
+- What is the correct information on COVID-19?
+- Has there been any misinformation about corona?
+- Are there any myths about the coronavirus?
+- Is there any wrong information on COVID-19?
+- What are myths about corona?
 
 ## intent:covid_donts
-- La prise d'antibiotiques est-elle déconseillée ?
-- En quoi le COVID-19 est-il dangereux pour ma santé ?
-- Y a-t-il quelque chose que je devrais arrêter de faire ?
-- Le tabagisme peut-il aggraver le coronavirus ?
-- Que dois-je éviter de faire pour arrêter l'évolution du COVID-19 ?
-- Y a-t-il quelque chose qui m'expose à un risque plus élevé de contracter le corona ?
-- Que dois-je arrêter de faire pour éviter d'attraper le corona ?
+- Is taking antibiotics bad?
+- What can make COVID-19 worse for me?
+- Is there anything i should stop doing?
+- Is smoking make the coronavirus more harmful for me?
+- What should I not do to stop COVID-19?
+- IS there anything that puts me at a higher risk to get corona?
+- What should I stop doing to prevent corona?
 
 ## intent:covid_on_surfaces
-- Où le corona peut-il survivre ?
-- Puis-je attraper le coronavirus en touchant une surface infectée ?
-- Pendant combien d'heures le COVID-19 peut-il survivre sur des surfaces ?
-- Le corona peut-il survivre en dehors du corps humain ?
-- Sur quelles surfaces le coronavirus survit-il ?
-- Le COVID-19 peut-il vivre sur des surfaces ?
-- Combien de temps le corona survit-il en dehors du corps humain ?
+- Where can corona survive?
+- Can I get the coronavirus from an infected surface?
+- How may hours does COVID-19 survive on surfaces?
+- Can corona live outside of humans?
+- On what surfaces does the coronavirus survive?
+- Can COVID-19 live on surfaces?
+- How long does corona survive outside the human body?
 
 ## intent:covid_infection_sources
-- Comment puis-je attraper le corona ?
-- Les animaux peuvent-ils attraper le coronavirus ?
-- Comment puis-je attraper le COVID-19 ?
-- Mon chien peut-il me transmettre le corona ?
-- Quels animaux peuvent me transmettre le coronavirus ?
-- Les animaux peuvent-ils nous contaminer au COVID-19 ?
-- Mon animal de compagnie peut-il me transmettre le corona ?
+- What can I get corona from?
+- Can animals have the coronavirus?
+- How can I get COVID-19?
+- Is it possible for me to get corona from my dog?
+- From what animals can I get the coronavirus?
+- Is it possible to get COVID-19 from animals?
+- Can I get corona from my pet?
 
 ## intent:covid_incubation
-- Combien de temps une personne peut-elle ne pas présenter les symptômes du coronavirus ?
-- Qu'est-ce qu'une « période d'incubation » ?
-- À quel moment peut-on commencer à présenter des symptômes de corona ?
-- Quelle est la période d'incubation du COVID-19 ?
-- Combien de temps faut-il pour observer les symptômes du coronavirus ?
-- Combien de jours faut-il pour que je montre des symptômes du corona ?
-- Combien de temps faut-il pour présenter les symptômes du COVID-19 ?
+- How long can a person not show symptoms of the coronavirus?
+- What is an "incubation period"?
+- When do people start showing symptoms of corona?
+- What is the incubation period for COVID-19?
+- How long can it take to see symptoms of the coronavirus?
+- How many days does it take until I show symptoms of corona?
+- How long does it take to show symptoms of COVID-19?
 
 ## intent:covid_masks
-- Les masques permettent-ils d'éviter d'attraper le COVID-19 ?
-- Un masque me protège-t-il du coronavirus ?
-- En quoi un masque protège-t-il du corona ?
-- Dois-je porter un masque pour ne pas attraper le COVID-19 ?
-- Puis-je empêcher l'évolution du coronavirus en portant un masque ?
-- Le fait de porter un masque m'empêche-t-il d'attraper le COVID-19 ?
-- Le fait de porter un masque m'empêche-t-il d'attraper le corona ?
+- Do masks prevent COVID-19?
+- Does a mask protect me from the coronavirus?
+- How does a mask help prevent corona?
+- Should I wear a mask to prevent COVID-19?
+- Can I prevent getting the coronavirus by wearing a mask?
+- Does wearing a mask stop me from getting COVID-19?
+- Does wearing a mask prevent corona?
 
 ## intent:covid_SARS
-- Le corona est-il le SRAS ?
-- Le corona est-il différent du SRAS ?
-- En quoi le coronavirus est-il différent du SRAS ?
-- Y a-t-il des différences entre le coronavirus et le SRAS ?
-- Quelle est la différence entre le SRAS et le COVID-19 ?
-- Le SRAS et le corona sont-ils identiques ?
-- Le coronavirus et le SRAS sont-ils identiques ?
+- Is corona SARS?
+- Is corona different from SARS?
+- How is the coronavirus different from SARS?
+- Are there any differences between the coronavirus and SARS?
+- What is the difference between SARS and COVID-19?
+- Are SARS and corona the same?
+- Are the coronavirus and SARS the same thing?
 
 ## intent:covid_treatments
-- Quels traitements puis-je suivre pour me prémunir contre le coronavirus ou en guérir ?
-- Quels médicaments puis-je prendre contre le COVID-19 ?
-- Existe-t-il des thérapies pour arrêter le COVID-19 ?
-- Puis-je prendre des médicaments pour me prémunir contre le corona ou en guérir ?
-- Y a-t-il un vaccin contre le corona ?
-- Y a-t-il quelque chose qui puisse arrêter l'évolution du coronavirus ?
-- Existe-t-il un médicament qui guérisse ou empêche la contamination du corona ?
+- What treatments can I do to prevent or cure the coronavirus?
+- What medicine can I take against COVID-19?
+- Are there any therapies to stop COVID-19?
+- Can I take any medicine to prevent or cure corona?
+- Is there a vaccine against corona?
+- Can anything stop the coronavirus?
+- Is there any medicine that cures or prevents corona?
 
 ## intent:covid_most_at_risk
-- Le coronavirus est-il plus dangereux pour certaines personnes ?
-- Y a-t-il des personnes plus susceptibles d'attraper le corona ?
-- Qui est le plus susceptible de mourir du corona ?
-- Qui est le plus à risque de contracter une forme sévère du COVID-19 ?
-- Qui est le plus à risque de contracter des symptômes graves liés au corona ?
-- Pour qui le COVID-19 est-il le plus dangereux ?
-- Qui est le plus touché par le coronavirus ?
+- Is the coronavirus more dangerous to some people?
+- Are there people more at risk of being harmed by corona?
+- Who is most likely to die from corona?
+- Who is at risk of being seriously harmed by COVID-19?
+- Who is most at risk of getting serious symptoms because of corona?
+- For who is COVID-19 most dangerous?
+- Who is most affected by the coronavirus?
 
 ## intent:covid_anxiety
-- Dans quelle mesure devrais-je m'inquiéter du coronavirus ?
-- Vaut-il la peine de s'inquiéter pour le COVID-19 ?
-- Est-il normal d'être inquiet au sujet du COVID-19 ?
-- Dois-je m'inquiéter pour le COVID-19 ?
-- À quel point devrais-je m'inquiéter à propos du corona ?
-- Y a-t-il des raisons d'être inquiet au sujet du COVID-19 ?
-- Dois-je m'inquiéter pour le coronavirus ?
+- How concerned should I be about the coronavirus?
+- Is it worth being worried about COVID-19?
+- Is it normal to be worried about corona?
+- Should I be concerned about COVID-19?
+- How worried should I be about corona?
+- Is there any reason to be worried about COVID-19?
+- Should I be worried about the coronavirus?
 
 ## intent:covid_infection_likelihood
-- Quelles sont mes chances d'attraper le coronavirus ?
-- Vais-je attraper le COVID-19 ?
-- Vais-je attraper le coronavirus ?
-- Vais-je attraper la maladie ?
-- Quelle est la probabilité que je contracte le coronavirus ?
-- Quelle est la probabilité que je sois infecté par le COVID-19 ?
+- What are the chances of me getting coronovirus?
+- Am I going to get COVID-19?
+- Am I going to get coronavirus?
+- Will I get coronavirus?
+- Will I catch the disease?
+- How likely is it that I will get coronavirus?
+- How likely am I to get infected with COVID-19?
 
 ## intent:covid_protection
-- Comment puis-je arrêter la propagation du virus ?
-- Quelle protection existe-t-il contre le coronavirus ?
-- Comment puis-je protéger ma famille contre la maladie ?
-- Comment puis-je éviter d'attraper la maladie ?
-- Comment puis-je me protéger contre le COVID-19 ?
-- Comment puis-je me protéger ?
-- Comment puis-je me protéger contre le virus ?
+- How can I stop the virus from spreading?
+- What protection is there against the coronavirus?
+- How can I protect my family from the disease?
+- How can I avoid getting the disease?
+- How can I protect myself against getting COVID-19?
+- How can I protect myself?
+- How can I protect myself against the virus?
 
 ## intent:covid_how_spread
-- Comment les gens attrapent-ils le virus ?
-- Comment les gens attrapent-ils la maladie ?
-- Comment puis-je attraper la maladie ?
-- Comment la maladie se transmet-elle ?
-- Comment le virus se propage-t-il ?
-- Comment le COVID-19 se propage-t-il ?
-- Comment le coronavirus se propage-t-il ?
+- How do people catch the virus?
+- How do people catch the disease?
+- How can I catch the disease?
+- How does the disease spread?
+- How does the virus spread?
+- How does COVID-19 spread?
+- How does Coronavirus spread?
 
 ## intent:covid_what_is_corona_covid-19
-- COVID-19 et coronavirus désignent-ils la même chose ?
-- Pouvez-vous expliquer ce qu'est le coronavirus ?
-- Pouvez-vous expliquer ce qu'est le COVID-19 ?
-- Qu'est-ce que le COVID-19 ?
-- Qu'est-ce que le coronavirus ?
-- Quelle est la différence entre COVID-19 et coronavirus ?
+- Are covid-19 and coronovirus the same thing?
+- Can you explain what coronavirus is?
+- Can you explain what COVID-19 is?
+- Is COVID-19 and coronavirus the same?
+- What is COVID-19?
+- What is coronavirus?
+- What is the difference between COVID-19 and Coronavirus?
 
 ## intent:covid_symptoms
-- Quels sont les symptômes ?
-- Quels sont les signes de la maladie du coronavirus ?
-- Suis-je malade ?
-- Ai-je le coronavirus ?
-- Ai-je le COVID-19 ?
-- Comment puis-je savoir si j'ai attrapé le coronavirus ?
-- Quels sont les symptômes du COVID-19 ?
-- Quels sont les symptômes du coronavirus ?
+- What are the symptoms
+- What are the signs of being sick with coronavirus?
+- Am I sick?
+- Do I have coronavirus?
+- Do I have COVID-19?
+- How do I know if I am infected with coronavirus
+- What are the symptoms of COVID-19?
+- What are the symptoms of the coronavirus
 
 ## intent:wash_hands_how
-- Le désinfectant pour les mains est-il plus efficace que le savon ?
-- Dois-je utiliser du désinfectant pour les mains à la place du savon ?
-- Combien de temps dois-je me laver les mains ?
-- Quel est le temps minimum pour se laver les mains ?
-- Quand je me lave les mains, combien de temps dois-je mettre ?
-- Dois-je utiliser du savon pour me laver les mains ?
-- Quelle est la bonne façon de me laver les mains ?
-- Comment dois-je me laver les mains ?
+- Is sanitizer better than soap?
+- Should I use sanitizer instead of soap?
+- How long should I wash my hands?
+- What's the minimum time to wash hands?
+- When I wash my hands, how long should I do it for?
+- Should I use soap to wash my hands?
+- What's the right way to wash my hands?
+- How should I wash my hands?
 
 ## intent:wash_hands_frequency
-- se laver les mains
-- Que dois-je faire tous les jours ?
-- Pourquoi puis-je utiliser du savon ?
-- Quelle est la meilleure chose que je puisse faire pour rester propre ?
-- Quand dois-je me laver les mains ?
-- Devrais-je me laver les mains ?
-- Le lavage des mains : est-ce une bonne idée ?
-- Combien de fois par jour dois-je me laver les mains ?
-- À quelle fréquence dois-je me laver les mains ?
+- wash hands
+- What should I do every day?
+- What can I use soap for?
+- What's the best thing I can do to keep clean?
+- When should I wash my hands?
+- Should I wash my hands?
+- Is hand washing a good idea?
+- How many times a day should I wash my hands?
+- How often should I wash my hands?
 
 ## intent:goodbye
-- au revoir
-- c'est tout
-- Au revoir
-- à plus
-- Arrêter
-- arrêtez de parler
-- bonne nuit
-- Annuler
-- allez-vous en
-- Non merci
-- non
-- Ce sera tout, merci
-- ce sera tout
-- c'est tout, merci
-- c'est tout pour aujourd'hui
+- good bye
+- that's all
+- bye bye
+- see ya
+- stop
+- stop talking
+- goodnight
+- goodbye
+- cancel
+- go away
+- no thanks
+- no
+- that would be all thanks
+- that would be all
+- no thanks
+- that is all thank you
+- that's all for today
 
 ## intent:greeting
-- quoi de neuf
-- Que fais-tu
-- Que pouvez-vous faire
-- Hep
-- oh
-- salut.
-- Bonjour.
-- salut!
-- salut
-- eh
-- Bonjour
-- bon après-midi
-- Salut
-- hi
+- sup
+- whatsup
+- what do you do
+- what can you do
+- hey
+- yo
+- what's up
+- hi there.
+- Hello.
+- hi!
+- hi there
+- heya
 - hello
+- good afternoon
+- good morning
+- Hi
 
 
 ## intent:covid_myth_cure_sw
