@@ -7,6 +7,8 @@
 - Kuko mtu mwenye alishapata dawa ya coronavirus?
 - kuko dawa ya COVID-19?
 - Dawa ya corona imepatikana?
+- Batu banaweza pona ugonjwa ya virusi ya corona?
+- Chanjo iko na uwezo ya kuuwa corona?
 
 ## intent:covid_myth_antibiotics_sw
 - kuna ushuhuda yoyote wa dawa ya kuuwa vidudu mwilini (antibiotiki) kukuwa inaweza uwa COVID-19?
@@ -148,7 +150,6 @@
 - Kuko kitu yoyote naweza kufanya kupiganisha boga?
 - Namna gani naweza jisaidia ku boga ya corona?
 
-
 ## intent:covid_travel_advice_sw
 - Wapi ninaweza kupata shauri ju ya safari (voyage)?
 - Minaweza safiri kama niko mugonjwa?
@@ -212,7 +213,6 @@
 - Kuvala mask ineza tuma misipate COVID-19?
 - Kuvala mask inaweza zuia corona?
 
-
 ## intent:covid_SARS_sw
 - Corona ni kama virusi ingine inayoitwa SARS?
 - Corona ni tafauti na virusi ingine inayoitwa SARS?
@@ -240,7 +240,6 @@
 - COVID-19 ni ya hatari zaidi ku mutu gani?
 - Corona ina gusa zaidi batu gani?
 
-
 ## intent:covid_anxiety_sw
 - Boga ya namna gani minapashwa kuwa nayo ju ya coronavirus?
 - Ni ya maana kukuwa na wasiwasi ju ya COVID-19?
@@ -267,6 +266,15 @@
 - Namna gani naweza kujikinga mwenyewe nisipate COVID-19?
 - Namna gani naweza kujikinga?
 - Namna gani naweza kujikinga na virusi?
+
+## intent:covid_gloves_sw
+- Je! Nina budi kuvaa glavu kujikinga na COVID?
+- Je! Kuvaa glavu ni muhimu?
+- Glavu zinilinde?
+- Je! Glavu ni wazo zuri?
+- Je! Glavu zinalinda dhidi ya virusi?
+- Je! Glavu ni nzuri?
+- M gants zinaweza zuia corona?
 
 ## intent:covid_how_spread_sw
 - Batu banapataka virusi aye?
@@ -316,7 +324,6 @@
 - Kunawa mikono ni muzuri?
 - Mara ngapi ku siku njo minapashwa nawa mikono?
 - Ni mara ngapi njo minapashwa safisha mikono yangu?
-
 
 ## intent:goodbye_sw
 - Kwaheri
@@ -431,6 +438,15 @@
 - Kuna tofauti gani kati ya janga na janga?
 - Kwa nini Coronavirus inaitwa gonjwa?
 - Ugonjwa huwa lini gonjwa?
+
+## intent:ask_for_local_stats_sw
+- Je! Kuna kesi yoyote katika Ituri?
+- Je! Kuna kesi yoyote huko Goma
+- Je! Kuna kesi yoyote huko Beni?
+- Je! Kuna maambukizi huko Kivu Kaskazini?
+- Ni watu wangapi wameambukizwa huko Goma?
+- Ni watu wangapi wameambukizwa Ituri?
+- Uchunguzi katika Ituri?
 
 ## intent:ask_for_stats_sw
 - Ni watu wangapi wana coronavirus
@@ -598,8 +614,13 @@
 ## intent:covid_children_stress_fr
 - Comment apaiser les enfants pendant la pandémie du COVID-19 ?
 - Comment faire en sorte que les enfants soient heureux pendant le confinement ?
+- Comment apaiser les petits pendant la pandémie du COVID-19 ?
 - Que devrais-je faire avec les enfants pendant la pandémie du COVID-19 ?
 - Comment occuper les enfants pendant le confinement ?
+- Et les petits?
+- Qu'est-ce que je fais avec ma petite?
+- Qu'est-ce que je fais avec mon petit?
+- Que devrais-je faire avec les petits pendant la pandémie du COVID-19 ?
 - Que puis-je faire pour aider les enfants à se sentir moins stressés ?
 - Mes enfants sont stressés, que dois-je faire ?
 - Puis-je aider mes enfants à gérer leur stress ?
@@ -677,6 +698,8 @@
 - Les masques permettent-ils d'éviter d'attraper le COVID-19 ?
 - Un masque me protège-t-il du coronavirus ?
 - En quoi un masque protège-t-il du corona ?
+- je peut porter ma masque plusieurs fois?
+- Combien de fois est-ce que je peut porter ma masque?
 - Dois-je porter un masque pour ne pas attraper le COVID-19 ?
 - Puis-je empêcher l'évolution du coronavirus en portant un masque ?
 - Le fait de porter un masque m'empêche-t-il d'attraper le COVID-19 ?
@@ -685,6 +708,12 @@
 ## intent:covid_gloves_fr
 - Dois-je porter des gants pour me protéger contre le COVID?
 - Le port de gants est-il utile?
+- Les gants me protegent?
+- Est-ce que les gants sont une bonne idée?
+- Est-ce que les gants peuvent me proteger?
+- des gants?
+- Les gants protegent contre le virus?
+- Les gants sont bien?
 
 ## intent:covid_SARS_fr
 - Le corona est-il le SRAS ?
@@ -748,6 +777,7 @@
 - Comment puis-je éviter d'attraper la maladie ?
 - Comment puis-je me protéger contre le COVID-19 ?
 - Comment puis-je me protéger ?
+- Qq je dois faire?
 - Comment puis-je me protéger contre le virus ?
 
 ## intent:covid_how_spread_fr
@@ -772,6 +802,7 @@
 - Quels sont les symptômes ?
 - Quels sont les signes de la maladie du coronavirus ?
 - Suis-je malade ?
+- Symptomes?
 - Ai-je le coronavirus ?
 - Ai-je le COVID-19 ?
 - Comment puis-je savoir si j'ai attrapé le coronavirus ?
@@ -799,10 +830,24 @@
 - Combien de fois par jour dois-je me laver les mains ?
 - À quelle fréquence dois-je me laver les mains ?
 
+## intent:ask_for_local_stats_fr
+- Y a-t-il des cas en Ituri?
+- Y a-t-il des cas à Goma
+- Y a-t-il des cas à Beni?
+- Est-ce qu'il y a des cas a ituri
+- Est-ce qu'il y a des cas a Goma
+- Est-ce qu'il y a des cas en Kivu Nord
+- Est-ce qu'il y a des cas en Kivu Sud
+- Y a-t-il des infections au Kivu Nord?
+- Combien de personnes sont infectées à Goma?
+- Combien de gens sont infectées en Ituri?
+- Cas en Ituri?
+
 ## intent:covid_statistics_DRC_fr
 - Combien de personnes sont malades de COVID-19 en RDC?
 - Combien de personnes sont mortes du COVID-19 au Congo?
 - Combien de cas de Corona?
+- Combien de gens sont infectés?
 - Combien de personnes ont guéri du coronavirus?
 
 ## intent:goodbye_fr
@@ -930,6 +975,7 @@
 - Donnez-moi quelques statistiques
 - Combien de personnes ont la maladie?
 - Combien de personnes sont infectées
+- combien de gens sont infectés
 
 ## intent:affirm_fr
 - Oui
@@ -944,6 +990,7 @@
 - non
 - 👎
 - jamais
+- no
 - Je ne pense pas
 - n'aime pas ça
 - en aucune façon
@@ -955,4 +1002,41 @@
 - Savez-vous qui est responsable de la crise?
 - Quelle sera la météo?
 - Barca ou réel?
+- Je suis enceinte, quoi faire?
+- Je suis enceinte
+- Medicin
+- Je peux conduire avec mon moto?
 - Pensez-vous que Barcelone ou le Real Madrid sont meilleurs?
+
+## intent:where_do_you_live_fr
+- Tu habites ou?
+- Ou tu habites toi?
+- Tu es d'ou?
+- Tu es d'ici?
+- Tu es aussi d'ici?
+- Tu es où maintenant?
+
+## intent:where_do_you_live_sw
+- Unaishi wapi?
+- Unaishi wapi?
+- Unatoka wapi?
+- Wewe ni kutoka hapa?
+- Je! Wewe pia unatoka hapa?
+- Uko wapi sasa?
+- Uko wapi?
+
+## intent:whats_your_name_sw
+- Jina lako nani?
+- Wanakuita nini?
+- Una jina gani?
+- Je! Marafiki wako wanakuita nini?
+- Je! Walikuita nini?
+
+## intent:whats_your_name_fr
+- Comment vous appelez vous?
+- Comment vous appellent-ils?
+- Quel nom as-tu?
+- Comment tes amis t'apellent-ils?
+- Comment t'ont-ils appelé?
+
+## intent:whats_your_name_sw

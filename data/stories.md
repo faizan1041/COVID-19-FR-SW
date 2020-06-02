@@ -35,9 +35,22 @@
 * ask_for_stats_fr
  - action_get_infection_stats_fr
 
+## answer_ask_for_stats_fr
+* ask_for_local_stats_fr
+ - utter_answer_local_stats_fr
+ - action_get_infection_stats_fr
+
 ## answer_out_of_scope_fr
 * out_of_scope_fr
  - utter_answer_out_of_scope_fr
+
+## answer_where_do_you_live_fr
+* where_do_you_live_fr
+ - utter_answer_where_do_you_live_fr
+
+## answer_whats_your_name
+* whats_your_name_fr
+ - utter_answer_whats_your_name_fr
 
 ## answer_goodbye_fr
 * goodbye_fr
@@ -69,6 +82,14 @@
 ## answer_ask_for_stats_sw
 * ask_for_stats_sw
  - action_get_infection_stats_sw
+
+## answer_where_do_you_live_sw
+* where_do_you_live_sw
+  - utter_answer_where_do_you_live_sw
+
+## answer_whats_your_name
+* whats_your_name_sw
+  - utter_answer_whats_your_name_sw
 
 ## answer_out_of_scope_sw
 * out_of_scope_sw
