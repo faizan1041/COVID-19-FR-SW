@@ -121,7 +121,7 @@ class FeedbackFormFR(FormAction):
         dispatcher.utter_message(template="utter_ONLY_thanks_for_your_feedback_fr")
         return[]
 
-class FeedbackForm(FormAction):
+class FeedbackFormSW(FormAction):
 
     def name(self) -> Text:
         return "feedback_form_sw"
