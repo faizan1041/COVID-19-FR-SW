@@ -798,6 +798,7 @@
 - Comment puis-je me protéger ?
 - Qq je dois faire?
 - Comment puis-je me protéger contre le virus ?
+- Pourquoi il faut laver les mains?
 
 ## intent:covid_how_spread_fr
 - Comment les gens attrapent-ils le virus ?
@@ -895,7 +896,8 @@
 - Hep
 - quoi de neuf
 - salut.
-- Bonjour.
+- Bonjour
+- Bonjpur
 - salut!
 - salut
 - Bonjour
@@ -980,6 +982,7 @@
 - Parlez-vous Nande?
 - Combien de langues parlez-vous?
 - Vous parlez francais?
+- Tu parles pas le francais?
 - Vous parlez français?
 - Je ne te comprends pas
 
@@ -996,6 +999,8 @@
 - Combien de personnes ont la maladie?
 - Combien de personnes sont infectées
 - combien de gens sont infectés
+- Combien de morts de corona
+- combien de morts de covid-19
 
 ## intent:affirm_fr
 - Oui
@@ -1008,6 +1013,7 @@
 - ça sonne bien
 - correct
 - sûr
+- Oui, c'est la premiere fois
 
 ## intent:deny_fr
 - non
@@ -1031,6 +1037,7 @@
 - Francais svp
 - Francais
 - Je peux conduire avec mon moto?
+- je veux faire un test
 - Pensez-vous que Barcelone ou le Real Madrid sont meilleurs?
 
 ## intent:where_do_you_live_fr
