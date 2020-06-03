@@ -107,7 +107,6 @@
  - utter_thanks_back_sw
  - utter_ONLY_get_back_on_topic_sw
 
-
 <!-- COVID CONTENT -->
 
 ## answer_covid_myth_cure_sw
