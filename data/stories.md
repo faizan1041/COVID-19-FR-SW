@@ -43,6 +43,12 @@
 ## answer_out_of_scope_fr
 * out_of_scope_fr
  - utter_answer_out_of_scope_fr
+ - utter_ONLY_get_back_on_topic_fr
+
+## answer thanks_fr
+* user_says_thanks_fr
+ - utter_thanks_back_fr
+ - utter_ONLY_get_back_on_topic_fr
 
 ## answer_where_do_you_live_fr
 * where_do_you_live_fr
@@ -94,6 +100,13 @@
 ## answer_out_of_scope_sw
 * out_of_scope_sw
  - utter_answer_out_of_scope_sw
+ - utter_ONLY_get_back_on_topic_sw
+
+## answer thanks_sw
+* user_says_thanks_sw
+ - utter_thanks_back_sw
+ - utter_ONLY_get_back_on_topic_sw
+
 
 <!-- COVID CONTENT -->
 

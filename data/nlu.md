@@ -1,4 +1,19 @@
 
+## intent:user_says_thanks_fr
+- Merci
+- merci beaucoup
+- merci bcp
+- Merci pour l'information
+- Merci pour la conversation
+- Merci d'avoir parlé avec moi
+
+## intent:user_says_thanks_sw
+- Asante
+- Asante sana
+- Asante kwa habari hiyo
+- Asante kwa mazungumzo
+- Asante kwa kuzungumza na mimi
+
 ## intent:covid_myth_cure_sw
 - Watu wanaweza kupona COVID-19?
 - Kuna kitu chochote kienye kinaweza ponesha coronavirus?
@@ -101,9 +116,11 @@
 - Miinaweza kupata COVID-19 kupitia kulumiwa na imbu?
 
 ## intent:covid_myth_traditional_medicine_sw
--
--
--
+- Je, Kongobololo ni matibabu kwa koronavirus?
+- Je! Ni dawa gani ya kitamaduni ninayoweza kutumia kumaliza coronavirus?
+- Je! Ni mimea gani huzuia dhidi ya COVID-19?
+- Je! Ninaweza kutumia dawa za jadi?
+- Je! Kuna matibabu ya kitamaduni?
 
 ## intent:covid_myth_heat_kills_sw
 - Hali ya hewa ya baridi ni ya mubaya kwa corona?
@@ -583,6 +600,8 @@
 - Le Kongobololo est-il un traitement contre le coronavirus ?
 - Quelle médecine traditionnelle puis-je utiliser pour arrêter le coronavirus?
 - Quelles herbes empêchent contre COVID-19?
+- Je peut utiliser la médecine traditionnelle?
+- Est-ce qu'il y a des traitements traditionnels?
 
 ## intent:covid_myth_heat_kills_fr
 - L'humidité est-elle mauvaise pour le corona ?
@@ -874,13 +893,11 @@
 - Que fais-tu
 - Que pouvez-vous faire
 - Hep
-- oh
 - quoi de neuf
 - salut.
 - Bonjour.
 - salut!
 - salut
-- eh
 - Bonjour
 - bon après-midi
 - Bonjour
@@ -961,6 +978,8 @@
 - Parlez-vous lingala?
 - Parlez-vous Nande?
 - Combien de langues parlez-vous?
+- Vous parlez francais?
+- Vous parlez français?
 - Je ne te comprends pas
 
 ## intent:covid_explain_pandemic_fr
@@ -981,6 +1000,9 @@
 - Oui
 - 👍
 - En effet
+- OK
+- ok
+- d'accord
 - bien sûr
 - ça sonne bien
 - correct
@@ -1005,6 +1027,8 @@
 - Je suis enceinte, quoi faire?
 - Je suis enceinte
 - Medicin
+- Francais svp
+- Francais
 - Je peux conduire avec mon moto?
 - Pensez-vous que Barcelone ou le Real Madrid sont meilleurs?
 
@@ -1038,5 +1062,3 @@
 - Quel nom as-tu?
 - Comment tes amis t'apellent-ils?
 - Comment t'ont-ils appelé?
-
-## intent:whats_your_name_sw

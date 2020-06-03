@@ -120,6 +120,8 @@ intents:
 - affirm_fr
 - deny_fr
 - out_of_scope_fr
+- user_says_thanks_sw
+- user_says_thanks_fr
 - whats_your_name_fr
 - whats_your_name_sw
 - where_do_you_live_fr
@@ -371,6 +373,9 @@ responses:
     utter_ONLY_answer_fallback_sw:
       - text: "Samahani hakuipata kabisa. Tafadhali sema hiyo tena."
 
+    utter_thanks_back_sw:
+      - text: "Asante kwako"
+
     utter_ONLY_anything_else_question_sw:
       - text: "Kitu kingine chochote ambacho ninaweza kujaribu kukujibu?"
 
@@ -444,7 +449,7 @@ responses:
       - text: "Maswali yoyote kuhusu COVID-19 au maswali ya jumla juu ya afya ninayoweza kukusaidia?"
 
     utter_ONLY_get_informed_consent_sw:
-      - text: "Halo. Asante kwa kuwasiliana. Jina langu ni <Uji> Usiwe na wasiwasi, hakuna mtu anayeweza kukutambulisha kutoka kwa maswali au maoni yako lakini tunataka ujue kuwa tutakusanya na kuchambua unachokiandika. Ikiwa tutafanya hivyo, tutatumia kufanya huduma hii kuwa bora. Tunaahidi kwamba tutaweza kutumia habari yako ya kibinafsi, pamoja na nambari yako ya simu, isipokuwa utatuambia kuwa tunaweza. Kwa kuendelea na mazungumzo haya, tutadhani unakubali. Asante"
+      - text: "Halo. Asante kwa kuwasiliana. Jina langu ni <Uji - Ukingo Jibu> Usiwe na wasiwasi, hakuna mtu anayeweza kukutambulisha kutoka kwa maswali au maoni yako lakini tunataka ujue kuwa tutakusanya na kuchambua unachokiandika. Ikiwa tutafanya hivyo, tutatumia kufanya huduma hii kuwa bora. Tunaahidi kwamba tutaweza kutumia habari yako ya kibinafsi, pamoja na nambari yako ya simu, isipokuwa utatuambia kuwa tunaweza. Kwa kuendelea na mazungumzo haya, tutadhani unakubali. Asante"
 
     utter_ONLY_greet_with_name_sw:
       - text: "Halo {given_name_sw}!"
@@ -645,6 +650,9 @@ responses:
     utter_ONLY_answer_fallback_fr:
       - text: "Je suis désolé de ne pas avoir tout à fait compris. Redites ça, s'il vous plaît."
 
+    utter_thanks_back_fr:
+      - text: "Merci à toi!"
+
     utter_ONLY_anything_else_question_fr:
       - text: "Autre chose que je peux essayer de répondre pour vous?"
 
@@ -718,7 +726,7 @@ responses:
       - text: "Vous avez des questions sur COVID-19 ou des questions générales sur la santé avec lesquelles je peux vous aider?"
 
     utter_ONLY_get_informed_consent_fr:
-      - text: "Salut. Merci de m'avoir contacté. Mon nom est <Uji> Ne vous inquiétez pas, personne ne peut vous identifier à partir de vos questions ou commentaires, mais nous voulons que vous sachiez que nous collecterons et analyserons ce que vous tapez. Si nous le faisons, nous l’utiliserons pour améliorer ce service. Nous nous engageons à ne **JAMAIS** utiliser vos informations personnelles, y compris votre numéro de téléphone, sauf si vous nous le dites. En poursuivant cette conversation, nous supposerons que vous êtes d'accord. Je vous remercie"
+      - text: "Salut. Merci de m'avoir contacté. Mon nom est <Uji - Ukingo Jibu> Ne vous inquiétez pas, personne ne peut vous identifier à partir de vos questions ou commentaires, mais nous voulons que vous sachiez que nous collecterons et analyserons ce que vous tapez. Si nous le faisons, nous l’utiliserons pour améliorer ce service. Nous nous engageons à ne **JAMAIS** utiliser vos informations personnelles, y compris votre numéro de téléphone, sauf si vous nous le dites. En poursuivant cette conversation, nous supposerons que vous êtes d'accord. Je vous remercie"
 
     utter_ONLY_greet_with_name_fr:
       - text: "Salut {given_name_fr}!"
