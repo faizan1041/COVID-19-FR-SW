@@ -750,6 +750,7 @@
 - Puis-je prendre des médicaments pour me prémunir contre le corona ou en guérir ?
 - Y a-t-il un vaccin contre le corona ?
 - Y a-t-il quelque chose qui puisse arrêter l'évolution du coronavirus ?
+- J'aimerais savoir quand il y aura un vaccin.
 - Existe-t-il un médicament qui guérisse ou empêche la contamination du corona ?
 
 ## intent:covid_most_at_risk_fr
@@ -799,6 +800,7 @@
 - Qq je dois faire?
 - Comment puis-je me protéger contre le virus ?
 - Pourquoi il faut laver les mains?
+- Pourquoi laver les mains?
 
 ## intent:covid_how_spread_fr
 - Comment les gens attrapent-ils le virus ?
@@ -816,6 +818,8 @@
 - COVID-19 et coronavirus désignent-ils la même chose ?
 - Qu'est-ce que le COVID-19 ?
 - Qu'est-ce que le coronavirus ?
+- Qu'est-ce que c'est corona?
+- Qu'est-ce que c'est covid-19?
 - Quelle est la différence entre COVID-19 et coronavirus ?
 
 ## intent:covid_symptoms_fr
@@ -1013,7 +1017,9 @@
 - ça sonne bien
 - correct
 - sûr
-- Oui, c'est la premiere fois
+- Oui, c'est la premiere fois.
+- Oui, c'est ma premiere fois de parler avec vous.
+- Oui. Comment ca marche?
 
 ## intent:deny_fr
 - non
@@ -1036,6 +1042,7 @@
 - Medicin
 - Francais svp
 - Francais
+- Je ne comprends pas le swahili
 - Je peux conduire avec mon moto?
 - je veux faire un test
 - Pensez-vous que Barcelone ou le Real Madrid sont meilleurs?
