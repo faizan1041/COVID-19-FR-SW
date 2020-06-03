@@ -651,7 +651,7 @@ responses:
       - text: "Je suis désolé de ne pas avoir tout à fait compris. Redites ça, s'il vous plaît."
 
     utter_thanks_back_fr:
-      - text: "Merci à toi!"
+      - text: "Merci à toi aussi!"
 
     utter_ONLY_anything_else_question_fr:
       - text: "Autre chose que je peux essayer de répondre pour vous?"
