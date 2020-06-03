@@ -965,6 +965,7 @@
 - Dois-je manger plus de piment pour guérir la couronne?
 - Puis-je guérir la maladie avec du piment?
 - Le piment est-il bon contre la convoitise?
+- il y a des épices qui peuvent guérir le virus?
 
 ## intent:covid_myth_steam_fr
 - La vapeur chaude empêche-t-elle la couronne?

@@ -692,7 +692,7 @@ responses:
           payload: "kivu_sud"
         - title: "Ituri"
           payload: "ituri"
-        - title: "Other"
+        - title: "Autre"
           payload: "other"
 
     utter_ask_myth_source_fr:
