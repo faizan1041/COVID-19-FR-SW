@@ -458,7 +458,7 @@ responses:
       - text: "Samahani, sina habari ya kawaida - lakini nina takwimu za kitaifa za leo"
 
     utter_ONLY_infection_stats_sw:
-      - text: "Hivi sasa kuna watu {active} walioambukizwa katika {country}, mabadiliko ya {new} jana."
+      - text: "Hivi sasa kuna watu {active} walioambukizwa katika {country}, mabadiliko kutoka kwa {new} jana, {new_deaths} mbaya mpya ({total_deaths} jumla)"
 
     utter_ONLY_introduce_survey_sw:
       - text: "Ninazungumza Kifaransa na Kiswahili, lakini ninajifunza kuzungumza zaidi."
@@ -726,7 +726,7 @@ responses:
       - text: "Je peux répondre aux questions sur COVID-19 ou des questions générales sur la santé"
 
     utter_ONLY_get_informed_consent_fr:
-      - text: "Salut. Merci de m'avoir contacté. Mon nom est <Uji - Ukingo Jibu> Ne vous inquiétez pas, personne ne peut vous identifier à partir de vos questions ou commentaires, mais nous voulons que vous sachiez que nous collecterons et analyserons ce que vous tapez. Si nous le faisons, nous l’utiliserons pour améliorer ce service. Nous nous engageons à ne **JAMAIS** utiliser vos informations personnelles, y compris votre numéro de téléphone, sauf si vous nous le dites. En poursuivant cette conversation, nous supposerons que vous êtes d'accord. Je vous remercie"
+      - text: "Salut. Merci de m'avoir contacté. Mon nom est <Uji - Ukingo Jibu> Ne vous inquiétez pas, personne ne peut vous identifier à partir de vos questions ou commentaires, mais nous voulons que vous sachiez que nous collecterons et analyserons ce que vous tapez. Si nous le faisons, nous l’utiliserons pour améliorer ce service. Nous nous engageons à ne JAMAIS utiliser vos informations personnelles, y compris votre numéro de téléphone, sauf si vous nous le dites. En poursuivant cette conversation, nous supposerons que vous êtes d'accord. Je vous remercie"
 
     utter_ONLY_greet_with_name_fr:
       - text: "Salut {given_name_fr}!"
@@ -735,7 +735,7 @@ responses:
       - text: "Je suis désolé, je n'ai pas d'informations locales - mais j'ai les statistiques nationales d'aujourd'hui"
 
     utter_ONLY_infection_stats_fr:
-      - text: "Il y a actuellement {active} personnes infectées dans {country}, un changement de {new} hier."
+      - text: "Il y a actuellement {active} personnes infectées dans {country}, un changement de {new} hier, {new_deaths} nouvelles fatalités ({total_deaths} totale)"
 
     utter_ONLY_introduce_survey_fr:
       - text: "Je parle le français et le swahili, mais j'apprends à parler davantage."
@@ -748,6 +748,7 @@ responses:
 
     utter_ONLY_welcome_back_fr:
       - text: "C'est un plaisir de vous revoir!"
+      - text: "Merci d'être revenu!"
 
 session_config:
   session_expiration_time: 60

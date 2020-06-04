@@ -531,6 +531,8 @@
 - En quoi du sérum physiologique peut-il empêcher le corona d'évoluer ?
 - Puis-je utiliser du sérum physiologique pour arrêter l'évolution du coronavirus ?
 - Est-il vrai que le lavage de nez à l'aide de sérum physiologique empêche le COVID-19 d'évoluer ?
+- Me gargariser avec du sel prévient corona?
+- Ca aide si je me gargarise avec du sel?
 - Devrais-je me laver le nez avec du sérum physiologique ?
 
 ## intent:covid_myth_other_vaccines_fr
@@ -808,6 +810,8 @@
 - Comment puis-je attraper la maladie ?
 - Comment la maladie se transmet-elle ?
 - Comment le virus se propage-t-il ?
+- Est-ce que les enfants sont contagieux?
+- Les enfants sont-ils contagieux?
 - Comment le COVID-19 se propage-t-il ?
 - Comment le coronavirus se propage-t-il ?
 
@@ -832,6 +836,13 @@
 - Comment puis-je savoir si j'ai attrapé le coronavirus ?
 - Quels sont les symptômes du COVID-19 ?
 - Quels sont les symptômes du coronavirus ?
+- J'ai mal de tete
+- J'ai mal à la gorge
+- Je fais de la temperature
+- Je fais de la temperature, est-ce que j'ai corona?
+- Je fais de la fievre
+- J'ai de la fièvre
+- Je fais de la fievre, est-ce que j'ai corona?
 
 ## intent:covid_wash_hands_how_fr
 - Le désinfectant pour les mains est-il plus efficace que le savon ?
@@ -866,6 +877,10 @@
 - Combien de personnes sont infectées à Goma?
 - Combien de gens sont infectées en Ituri?
 - Cas en Ituri?
+- Ou sont les cas?
+- Où sont les cas de covid?
+- Ou sont les cas de corona?
+
 
 ## intent:covid_statistics_DRC_fr
 - Combien de personnes sont malades de COVID-19 en RDC?
@@ -1005,6 +1020,8 @@
 - combien de gens sont infectés
 - Combien de morts de corona
 - combien de morts de covid-19
+- Combien de décès
+- Combien de deces
 
 ## intent:affirm_fr
 - Oui
@@ -1042,9 +1059,15 @@
 - Medicin
 - Francais svp
 - Francais
+- Quoi?
 - Je ne comprends pas le swahili
 - Je peux conduire avec mon moto?
 - je veux faire un test
+- C'est vrai que Bill gates va nous implanter les microchip avec sa vaccination ?
+- Est-ce la bière prévient le corona
+- Est-ce la bière prévient le covid-19
+- Est-ce que je peux être testé?
+- Où puis-je être testé?
 - Pensez-vous que Barcelone ou le Real Madrid sont meilleurs?
 
 ## intent:where_do_you_live_fr

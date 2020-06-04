@@ -273,9 +273,16 @@ class ActionGetInfectionStats(Action):
         #get the bits of the response we want
         active = response_JSON['response'][0]['cases']['active']
         new = response_JSON['response'][0]['cases']['new']
+        new_deaths = response_JSON['response'][0]['deaths']['new']
+        total_deaths = response_JSON['response'][0]['deaths']['total']
 
-        dispatcher.utter_message(template="utter_ONLY_infection_stats_fr", active = active, new = new, country = country)
-#        dispatcher.utter_message(text=f'There are {active} people infected in {country}, a change of {new} on yesterday.')
+        dispatcher.utter_message(template="utter_ONLY_infection_stats_fr",
+                                 active = active,
+                                 new = new,
+                                 country = country,
+                                 new_deaths = new_deaths,
+                                 total_deaths = total_deaths
+                                 )
 
         return []
 
@@ -302,8 +309,16 @@ class ActionGetInfectionStatsSW(Action):
         #get the bits of the response we want
         active = response_JSON['response'][0]['cases']['active']
         new = response_JSON['response'][0]['cases']['new']
+        new_deaths = response_JSON['response'][0]['deaths']['new']
+        total_deaths = response_JSON['response'][0]['deaths']['total']
 
-        dispatcher.utter_message(template="utter_ONLY_infection_stats_sw", active = active, new = new, country = country)
+        dispatcher.utter_message(template="utter_ONLY_infection_stats_sw",
+                                 active = active,
+                                 new = new,
+                                 country = country,
+                                 new_deaths = new_deaths,
+                                 total_deaths = total_deaths
+                                 )
 #        dispatcher.utter_message(text=f'There are {active} people infected in {country}, a change of {new} on yesterday.')
 
         return []
